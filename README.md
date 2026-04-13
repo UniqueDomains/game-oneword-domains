@@ -75,7 +75,7 @@ print(df.head())
 | echo.game       | premium   | $1,625    | —             | 68             | 57     | 4      | name.com                                |
 | air.game        | available | $498      | —             | 84             | 49     | 3      | namecheap                               |
 | dark.game       | resell    | —         | —             | 52             | 40     | 4      | 101domain GRS Limited                   |
-| design.game     | premium   | $1,625    | $1,625        | 108            | 50     | 6      | name.com                                |
+| design.game     | premium   | $1,625    | $1,625        | 108            | 49     | 6      | name.com                                |
 | bolt.game       | available | $349.99   | —             | 66             | 47     | 4      | name.com                                |
 | mission.game    | resell    | —         | —             | 72             | 39     | 7      | Namecheap                               |
 | clear.game      | premium   | $1,625    | $1,625        | 90             | 49     | 5      | name.com                                |
