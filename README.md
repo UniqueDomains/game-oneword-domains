@@ -1,22 +1,22 @@
-# Available .GAME One-Word Domains (9,402)
+# Available .GAME One-Word Domains (11,792)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C402%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C402%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C792%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .game one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .game one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,792 domains** on the canonical page below.
 
-**Public extract:** 9,402 rows · **Live catalog:** 9,402 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,792 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/game`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GAME one-word domain 
 
 ### Files
 
-- `game.csv` — public CSV extract (9,402 rows)
-- `game.json` — public JSON extract (9,402 rows)
+- `game.csv` — public CSV extract (1,000 rows)
+- `game.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------- |
-| property.game   | available | $498      | —             | 90             | 99     | 8      | namecheap                               |
-| brain.game      | resell    | —         | —             | 70             | 50     | 5      | Namecheap                               |
-| nationwide.game | premium   | $1,625    | $1,625        | 76             | 66     | 10     | name.com                                |
-| seventeen.game  | available | $349.99   | $616.99       | 84             | 62     | 9      | name.com                                |
-| yes.game        | resell    | —         | —             | 90             | 46     | 3      | 1API GmbH                               |
-| power.game      | premium   | $1,690    | $1,690        | 98             | 62     | 5      | namecheap                               |
-| athletics.game  | available | $498      | —             | 69             | 52     | 9      | namecheap                               |
-| david.game      | resell    | —         | —             | 74             | 46     | 5      | Namecheap                               |
-| echo.game       | premium   | $1,625    | —             | 68             | 57     | 4      | name.com                                |
-| air.game        | available | $498      | —             | 84             | 49     | 3      | namecheap                               |
-| dark.game       | resell    | —         | —             | 52             | 40     | 4      | 101domain GRS Limited                   |
-| design.game     | premium   | $1,625    | $1,625        | 108            | 49     | 6      | name.com                                |
-| bolt.game       | available | $349.99   | —             | 66             | 47     | 4      | name.com                                |
-| mission.game    | resell    | —         | —             | 72             | 39     | 7      | Namecheap                               |
-| clear.game      | premium   | $1,625    | $1,625        | 90             | 49     | 5      | name.com                                |
-| genius.game     | available | $349.99   | $616.99       | 98             | 45     | 6      | name.com                                |
-| tennis.game     | resell    | —         | —             | 72             | 28     | 6      | Porkbun, LLC                            |
-| security.game   | premium   | $1,690    | $1,690        | 70             | 49     | 8      | namecheap                               |
-| creative.game   | available | $349.99   | $616.99       | 92             | 45     | 8      | name.com                                |
-| ball.game       | resell    | —         | —             | 66             | 26     | 4      | PDR Ltd. d/b/a PublicDomainRegistry.com |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| makers.game      | available | $309.99   | $329.99       | 62             | 67     | 6      | namesilo        |
+| bot.game         | resell    | —         | —             | 80             | 52     | 3      | Spaceship, Inc. |
+| nets.game        | premium   | $1,625    | —             | 54             | 81     | 4      | name.com        |
+| agents.game      | available | $349.99   | —             | 56             | 50     | 6      | name.com        |
+| insight.game     | premium   | $1,625    | —             | 76             | 69     | 8      | name.com        |
+| Books.game       | available | $498      | —             | 52             | 49     | 5      | namecheap       |
+| Ryan.game        | premium   | $1,820    | $1,820        | 60             | 44     | 4      | namecheap       |
+| shortcuts.game   | available | $349.99   | —             | 48             | 41     | 10     | name.com        |
+| stories.game     | premium   | $1,625    | —             | 58             | 36     | 7      | name.com        |
+| Tools.game       | available | $498      | —             | 56             | 40     | 5      | namecheap       |
+| Cats.game        | premium   | $1,820    | $1,820        | 59             | 33     | 4      | namecheap       |
+| WiFi.game        | available | $498      | —             | 83             | 37     | 5      | namecheap       |
+| maps.game        | premium   | $1,625    | —             | 56             | 31     | 4      | name.com        |
+| payments.game    | available | $349.99   | —             | 58             | 33     | 8      | name.com        |
+| brands.game      | premium   | $1,625    | —             | 62             | 28     | 6      | name.com        |
+| inspiration.game | available | $349.99   | —             | 88             | 30     | 11     | name.com        |
+| pages.game       | premium   | $1,625    | —             | 52             | 28     | 5      | name.com        |
+| SanDiego.game    | available | $309.99   | $329.99       | 74             | 29     | 9      | namesilo        |
+| doctors.game     | premium   | $1,625    | —             | 56             | 26     | 7      | name.com        |
+| Jim.game         | available | $498      | —             | 78             | 28     | 3      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,402-row public sample | 9,402 live domains                               |
+| 1,000-row public sample | 11,792 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAME One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAME One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
