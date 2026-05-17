@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .game one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,355 domains · **Median ask:** $443.90 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/game`  
 **Best for:** founders, investors, studios
 
@@ -67,14 +67,14 @@ print(df.head())
 | WiFi.game     | available | $498      | —             | 83             | 37     | 5      | namecheap |
 | jewels.game   | available | $349.99   | —             | 80             | 15     | 6      | name.com  |
 | barup.game    | available | $349.99   | —             | 82             | 2      | 6      | name.com  |
-| getup.game    | available | $349.99   | —             | 82             | 14     | 6      | name.com  |
+| getup.game    | available | $349.99   | —             | 82             | 15     | 6      | name.com  |
 | useit.game    | available | $349.99   | —             | 94             | 7      | 6      | name.com  |
 | dogsit.game   | available | $349.99   | —             | 96             | 2      | 6      | name.com  |
 | edamame.game  | available | $309.99   | $329.99       | 80             | 9      | 7      | namesilo  |
 | gearup.game   | available | $349.99   | —             | 80             | 16     | 7      | name.com  |
 | QandA.game    | available | $498      | —             | 80             | 10     | 7      | namecheap |
 | hangon.game   | available | $349.99   | —             | 82             | 6      | 7      | name.com  |
-| makeit.game   | available | $349.99   | —             | 82             | 22     | 7      | name.com  |
+| makeit.game   | available | $349.99   | —             | 82             | 21     | 7      | name.com  |
 | pierogi.game  | available | $349.99   | —             | 82             | 7      | 7      | name.com  |
 | watches.game  | available | $349.99   | —             | 84             | 19     | 7      | name.com  |
 | Snickers.game | available | $498      | —             | 80             | 10     | 8      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAME One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAME One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
