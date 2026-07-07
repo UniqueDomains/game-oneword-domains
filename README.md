@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .game one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,355 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,355 domains · **Median ask:** $443.90 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,355 domains · **Median ask:** $442.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/game`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/game`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GAME one-word domain 
 
 ### Files
 
-- `game.csv` — public CSV extract (1,000 rows)
-- `game.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `game.csv`, public CSV extract (1,000 rows)
+- `game.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| WiFi.game     | available | $498      | —             | 83             | 37     | 5      | namecheap |
-| jewels.game   | available | $349.99   | —             | 80             | 15     | 6      | name.com  |
-| barup.game    | available | $349.99   | —             | 82             | 2      | 6      | name.com  |
-| getup.game    | available | $349.99   | —             | 82             | 15     | 6      | name.com  |
-| useit.game    | available | $349.99   | —             | 94             | 7      | 6      | name.com  |
-| dogsit.game   | available | $349.99   | —             | 96             | 2      | 6      | name.com  |
-| edamame.game  | available | $309.99   | $329.99       | 80             | 9      | 7      | namesilo  |
-| gearup.game   | available | $349.99   | —             | 80             | 16     | 7      | name.com  |
-| QandA.game    | available | $498      | —             | 80             | 10     | 7      | namecheap |
-| hangon.game   | available | $349.99   | —             | 82             | 6      | 7      | name.com  |
-| makeit.game   | available | $349.99   | —             | 82             | 21     | 7      | name.com  |
-| pierogi.game  | available | $349.99   | —             | 82             | 7      | 7      | name.com  |
-| watches.game  | available | $349.99   | —             | 84             | 19     | 7      | name.com  |
-| Snickers.game | available | $498      | —             | 80             | 10     | 8      | namecheap |
-| makers.game   | available | $309.99   | $329.99       | 62             | 67     | 6      | namesilo  |
-| hotels.game   | premium   | $1,625    | —             | 64             | 82     | 6      | name.com  |
-| agents.game   | available | $349.99   | —             | 56             | 50     | 6      | name.com  |
-| nets.game     | premium   | $1,625    | —             | 54             | 81     | 4      | name.com  |
-| Books.game    | available | $498      | —             | 52             | 49     | 5      | namecheap |
-| insight.game  | premium   | $1,625    | —             | 76             | 69     | 8      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| correct.game | available | $349.99   | $616.99       | high           | low    | 7      | name.com    |
+| ale.game     | available | $309.99   | $329.99       | medium         | low    | 3      | namesilo    |
+| prodigy.game | resell    | —         | —             | high           | low    | 7      | Dynadot LLC |
+| age.game     | premium   | $1,625    | —             | high           | low    | 3      | name.com    |
+| Ann.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo    |
+| dry.game     | premium   | $1,625    | $1,625        | high           | low    | 3      | name.com    |
+| atp.game     | available | $309.99   | $329.99       | medium         | low    | 3      | namesilo    |
+| fan.game     | premium   | $1,625    | —             | high           | low    | 3      | name.com    |
+| bid.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo    |
+| flu.game     | premium   | $1,625    | —             | medium         | low    | 3      | name.com    |
+| boo.game     | available | $349.99   | —             | high           | low    | 3      | name.com    |
+| gym.game     | premium   | $1,625    | —             | high           | low    | 3      | name.com    |
+| con.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo    |
+| ing.game     | premium   | $1,625    | —             | medium         | low    | 3      | name.com    |
+| coy.game     | available | $349.99   | $616.99       | medium         | low    | 3      | name.com    |
+| kid.game     | premium   | $1,625    | —             | high           | low    | 3      | name.com    |
+| cry.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo    |
+| kit.game     | premium   | $1,625    | —             | medium         | low    | 3      | name.com    |
+| des.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo    |
+| sex.game     | premium   | $1,625    | —             | high           | medium | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection focuses only on one-word domains using the .game extension. The set is broad, with names ranging from category terms like homes.game and jewels.game to more action-oriented words like getup.game and popup.game. For founders, the main question is whether the word is memorable, easy to say, and strong enough to stand on its own with a niche extension. For investors, the key check is pricing discipline: with a median ask of $443.90, compare each name against clarity, commercial relevance, and how naturally the word fits gaming, play, competition, or interactive use.
+This list covers one-word .GAME domains only, spanning short everyday words, action verbs, and niche gaming terms like half.game, feel.game, and out.game. With 12,355 domains in the set and a median ask near $442, pricing varies widely depending on word length, memorability, and existing demand. Because .GAME is not yet a mainstream extension, checking trademark exposure and renewal cost with the registrar is a sensible step before committing to any single word.
 
-- Prefer words that read cleanly before .game
-- Check whether the term fits gaming use naturally
-- Use the $443.90 median ask as a price anchor
-- Avoid words that feel off-category or hard to explain
+- 12,355 one-word .GAME domains in this set
+- Median ask near $442 across the selection
+- Short, brandable words like Half, Feel, Out, Apples
+- Useful for founders and investors comparing pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAME One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAME One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
