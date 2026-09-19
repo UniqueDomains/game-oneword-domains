@@ -1,10 +1,10 @@
-# Available .GAME One-Word Domains (27,607)
+# Available .GAME One-Word Domains (27,816)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C607%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C816%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .game one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,607 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,816 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,607 domains · **Median ask:** $369.93 · **High-demand under $2,500:** 64
+**Public extract:** 1,000 rows · **Live catalog:** 27,816 domains · **Median ask:** $369.75 · **High-demand under $2,500:** 63
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-19
 **Canonical page:** `https://unique.domains/domains/tld/game`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| correct.game | available | $349.99   | $616.99       | high           | low    | 7      | name.com        |
 | ale.game     | available | $309.99   | $329.99       | medium         | low    | 3      | namesilo        |
 | super.game   | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc. |
 | age.game     | premium   | $1,690    | $1,690        | medium         | low    | 3      | namecheap       |
@@ -84,6 +83,7 @@ print(df.head())
 | cry.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo        |
 | kit.game     | premium   | $1,625    | —             | medium         | low    | 3      | name.com        |
 | des.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo        |
+| sex.game     | premium   | $1,625    | —             | high           | medium | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,607 live domains                        |
+| 1,000-row public sample | 27,816 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 64 high-demand names under $2,500          |
+| Basic exported fields   | 63 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAME One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAME One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
