@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .game one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,132 domains · **Median ask:** $365.42 · **High-demand under $2,500:** 52
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/game`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| own.game     | available | $309.99   | $329.99       | high           | high   | 3      | namesilo        |
+| pardon.game  | available | $309.99   | $329.99       | high           | low    | 6      | namesilo        |
+| express.game | premium   | $1,625    | —             | high           | low    | 7      | name.com        |
 | ale.game     | available | $309.99   | $329.99       | medium         | low    | 3      | namesilo        |
 | super.game   | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc. |
 | age.game     | premium   | $1,690    | $1,690        | medium         | low    | 3      | namecheap       |
@@ -71,19 +74,16 @@ print(df.head())
 | prodigy.game | resell    | —         | —             | high           | low    | 7      | Dynadot LLC     |
 | dry.game     | premium   | $1,625    | $1,625        | high           | low    | 3      | name.com        |
 | atp.game     | available | $309.99   | $329.99       | medium         | low    | 3      | namesilo        |
-| fan.game     | premium   | $1,625    | —             | high           | low    | 3      | name.com        |
+| fan.game     | premium   | $1,729    | $1,729        | medium         | low    | 3      | namesilo        |
 | bid.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo        |
 | flu.game     | premium   | $1,625    | —             | medium         | low    | 3      | name.com        |
 | boo.game     | available | $349.99   | —             | high           | low    | 3      | name.com        |
 | gym.game     | premium   | $1,625    | —             | high           | low    | 3      | name.com        |
 | con.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo        |
 | ing.game     | premium   | $1,625    | —             | medium         | low    | 3      | name.com        |
-| coy.game     | available | $349.99   | $616.99       | medium         | low    | 3      | name.com        |
+| coy.game     | available | $309.99   | $429.99       | low            | low    | 3      | namesilo        |
 | kid.game     | premium   | $1,625    | —             | high           | low    | 3      | name.com        |
 | cry.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo        |
-| kit.game     | premium   | $1,625    | —             | medium         | low    | 3      | name.com        |
-| des.game     | available | $309.99   | $329.99       | high           | low    | 3      | namesilo        |
-| sex.game     | premium   | $1,625    | —             | high           | medium | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GAME One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GAME One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
