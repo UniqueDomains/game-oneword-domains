@@ -2,16 +2,19 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2d8abb58-fa42-4f61-b44c-676da93baf9a,appointee.game,available,309.99,429.99,medium,low,9,namesilo,,,19/09/2026 21:58
 b3821e63-3626-49f4-a2d6-fb484dd9cce2,aberdare.game,available,309.99,429.99,medium,low,8,namesilo,,,16/09/2026 15:08
 0833b408-a612-48b0-aa23-bead9ae66e7a,schumann.game,available,309.99,429.99,high,low,8,namesilo,,,28/09/2026 05:27
-37b046e3-691f-48e0-b0b9-5975e10b770f,defence.game,available,349.99,,high,low,7,name.com,,,
+37b046e3-691f-48e0-b0b9-5975e10b770f,defence.game,available,300.2,300.2,high,low,7,cloudflare,,,29/09/2026 13:32
 134280a7-922a-4bfe-bad4-60cbb12d198e,sportive.game,available,310.98,498,high,low,8,namecheap,,,12/08/2026 18:10
 5db03ad9-07d9-43c2-8efc-eab9064b60f2,racine.game,available,309.99,429.99,high,low,6,namesilo,,,28/09/2026 02:12
 0d659390-6b19-4dbc-ba2e-8efa16b0cd70,tompkins.game,available,279.65,341.75,medium,low,8,spaceship,,,28/09/2026 08:31
 c787dea6-53b5-4dd8-9d82-cc610ff8bba5,swedish.game,available,309.99,429.99,high,low,7,namesilo,,,11/09/2026 05:29
 2c3edfd9-3a00-4cb5-9681-657b973b8189,carleton.game,available,310.98,547.98,high,low,8,namecheap,,,25/09/2026 15:18
+716a268d-c8ed-43b2-8346-06f979446c28,sor.game,available,309.99,429.99,high,low,3,namesilo,,,29/09/2026 14:39
+29476f99-e0c6-454e-be35-c97a7a816f9f,pleaded.game,available,309.99,353.32,medium,low,7,dynadot,,,29/09/2026 22:56
 498f276a-b643-4a3d-bf9f-dd67c457586f,hereafter.game,available,310.98,498,high,low,9,namecheap,,,18/08/2026 19:10
 34849d45-e409-4a1b-8034-b0f53857bbc1,hyperbolic.game,available,309.99,329.99,high,low,10,namesilo,,,21/08/2026 16:44
 f74828da-c014-4a9d-b7b5-ee5ad7a8d78c,wearing.game,available,309.99,429.99,medium,low,7,namesilo,,,11/09/2026 16:26
 7ae69d49-e105-458b-af9c-20a3aa82be00,reign.game,premium,1690,1690,high,medium,5,namecheap,,,09/09/2026 01:30
+d2b9a8d5-1f44-4dff-9c29-63f3d42931be,gadsden.game,available,309.99,353.32,medium,low,7,dynadot,,,30/09/2026 01:42
 591dcddd-b8c8-49b7-ab1d-09e2d72a41c6,dyslexic.game,available,309.99,329.99,medium,low,8,namesilo,,,14/08/2026 22:03
 50a69073-74ef-40a1-bd87-dcc71e44978b,woodsy.game,available,309.99,329.99,high,low,6,namesilo,,,06/08/2026 13:04
 f9453749-30d5-4335-bde7-f51bdb182828,anticipant.game,available,309.99,329.99,medium,low,10,namesilo,,,
@@ -27,10 +30,11 @@ a98b9b3a-f436-432d-a141-2a2628595785,aecium.game,available,309.99,429.99,medium,
 5ef45e3d-b0f4-4089-bfe4-dcd740acbb53,lighted.game,available,310.98,498,high,low,7,namecheap,,,21/08/2026 20:09
 6ac578e6-68b1-4189-920e-87c6994b2221,delineated.game,available,309.99,329.99,medium,low,10,namesilo,,,14/08/2026 00:37
 8f9cba0d-53e9-45cb-9c17-4815c1cbef17,rigorous.game,available,309.99,429.99,high,low,8,namesilo,,,27/09/2026 15:20
-a199266c-46a6-4e42-bd79-8419a5c6e224,picks.game,available,309.99,429.99,medium,low,5,namesilo,,,20/09/2026 07:23
+a199266c-46a6-4e42-bd79-8419a5c6e224,picks.game,available,309.99,429.99,high,low,5,namesilo,,,20/09/2026 07:23
 b0707688-d98c-436a-a02d-d63becec0b84,fishing.game,premium,1729,1729,high,low,7,namesilo,,,27/09/2026 03:59
-30f99a74-ec11-4c4f-97e0-c20cfaa181d6,barricade.game,available,309.99,429.99,medium,low,9,namesilo,,,22/09/2026 08:32
+30f99a74-ec11-4c4f-97e0-c20cfaa181d6,barricade.game,available,309.99,429.99,high,low,9,namesilo,,,22/09/2026 08:32
 936ec2be-23ee-4014-9e83-0f0a9681e6e6,blending.game,available,310.98,547.98,high,low,8,namecheap,,,24/09/2026 05:51
+457d7640-befc-4105-946f-3f323080b626,higgs.game,available,279.65,341.75,high,low,5,spaceship,,,29/09/2026 14:20
 4e6fe003-56a0-4e01-907d-dbc9adb8ed03,buttercup.game,available,309.99,429.99,high,low,9,namesilo,,,24/09/2026 11:18
 1222a0f2-fb04-402c-a285-03125c9a382d,obliged.game,available,279.65,341.75,medium,low,7,spaceship,,,28/09/2026 11:17
 1388f2aa-8d27-4439-a8b8-530e52ca9540,charlton.game,available,300.2,300.2,medium,low,8,cloudflare,,,27/09/2026 19:17
@@ -39,7 +43,7 @@ ad1b3076-2168-446e-bbde-40823519d262,rapid.game,available,309.99,429.99,high,low
 a5f9ae38-84b4-4e98-a61b-dac33bea435c,guarneri.game,available,310.98,547.98,medium,low,8,namecheap,,,19/09/2026 04:22
 4970058d-6222-472f-a1ea-ac10fde49df4,walsh.game,available,309.99,353.32,medium,low,5,dynadot,,,28/09/2026 08:52
 1cd186cb-1430-4706-a266-901c4162e9e2,dyadic.game,available,309.99,329.99,medium,low,6,namesilo,,,14/08/2026 21:52
-8a6d624e-dc48-4fed-86af-8ae2ae0ac659,armand.game,available,279.65,341.75,medium,low,6,spaceship,,,28/09/2026 07:26
+8a6d624e-dc48-4fed-86af-8ae2ae0ac659,armand.game,available,279.65,341.75,high,low,6,spaceship,,,28/09/2026 07:26
 5178a025-8111-4350-8cd7-d1613bbf0841,walkaway.game,available,309.99,429.99,medium,low,8,namesilo,,,09/09/2026 19:32
 980079d5-a443-4e7a-b578-b4b78886b5c3,dedicate.game,available,309.99,329.99,high,low,8,namesilo,,,
 e2a6c443-9326-4f6e-b445-b1677d1f5781,ali.game,available,309.99,429.99,high,high,3,namesilo,,,18/09/2026 07:21
@@ -51,6 +55,7 @@ b85255a1-57ff-4baa-b425-f3e15e5e8ff4,jaggy.game,available,309.99,329.99,medium,l
 7f60a953-5dd6-4797-b631-6e3be5387002,actaea.game,available,309.99,429.99,medium,low,6,namesilo,,,17/09/2026 04:11
 d309797a-ab89-4bed-bd03-6d5ce425d7ed,grouchy.game,available,309.99,329.99,medium,low,7,namesilo,,,08/08/2026 07:52
 56d60abf-e1d9-48b3-a8c4-9dee2bed0225,punic.game,available,310.98,498,medium,low,5,namecheap,,,11/08/2026 19:51
+12ab440b-ea76-463e-ac15-21740da14c8b,whelan.game,available,300.2,300.2,medium,low,6,cloudflare,,,29/09/2026 16:28
 94e6d798-6edb-45b7-8e84-2ccdeabe35ce,anomala.game,available,309.99,429.99,medium,low,7,namesilo,,,19/09/2026 11:24
 df2a8dfd-41b2-4353-b8a8-21ec4127a3d9,attraction.game,available,309.99,429.99,high,low,10,namesilo,,,28/09/2026 23:11
 105bfd7a-4f41-4240-9a4f-171c8d0ce9e0,saginaw.game,available,309.99,429.99,medium,low,7,namesilo,,,28/09/2026 03:02
@@ -58,8 +63,11 @@ df2a8dfd-41b2-4353-b8a8-21ec4127a3d9,attraction.game,available,309.99,429.99,hig
 a177420a-3d60-4e96-9bbb-a0c086e62733,ontop.game,available,309.99,429.99,medium,low,6,namesilo,,,16/09/2026 09:10
 7e84edee-e0cd-4935-9a00-54f578081c77,notched.game,available,309.99,329.99,medium,low,7,namesilo,,,17/08/2026 12:35
 05cd3108-2ede-456b-863b-527a6b973509,bassist.game,available,309.99,429.99,medium,low,7,namesilo,,,22/09/2026 12:26
-5f3fedef-29ea-4c45-b64b-64e79cb2b0e2,tourist.game,available,309.99,329.99,high,low,7,namesilo,,,
+5f3fedef-29ea-4c45-b64b-64e79cb2b0e2,tourist.game,available,309.99,429.99,high,low,7,namesilo,,,29/09/2026 22:57
+8d9e72c4-6c49-49c7-be1e-d6a2f742d6d1,burch.game,available,300.2,300.2,medium,low,5,cloudflare,,,29/09/2026 15:48
 3a65a5c2-a6e2-496d-85a2-d0349c82e9e5,calculous.game,available,309.99,329.99,medium,low,9,namesilo,,,11/08/2026 14:05
+f777ae22-ac31-4a18-a557-f2e59b513c27,fujian.game,available,279.65,341.75,high,low,6,spaceship,,,29/09/2026 09:46
+cc0e7d4c-6d92-43e5-8ebd-25dd013a3f89,decency.game,available,309.99,429.99,high,low,7,namesilo,,,29/09/2026 06:36
 b6abf254-6e2b-4951-93a9-3e6d13ca5605,jul.game,available,309.99,429.99,medium,low,3,namesilo,,,28/09/2026 21:44
 a9bcfe31-3d7f-449d-ad7b-cad17b6d54d4,unholy.game,available,309.99,329.99,medium,low,6,namesilo,,,14/08/2026 01:33
 cf272fb9-b82e-4ae4-9b1e-665f16bb8e7e,aroused.game,available,309.99,329.99,high,low,7,namesilo,,,
@@ -70,7 +78,8 @@ e83289bf-dd87-4094-b600-7048ca6d78f0,rayless.game,available,309.99,429.99,medium
 f37a0b23-6b2d-42f8-a21f-a3fbe34b0ff8,swiftly.game,available,279.65,341.75,high,low,7,spaceship,,,28/09/2026 14:53
 0ce83762-f2e5-4b57-bc41-2169293c8fd7,wriggly.game,available,309.99,429.99,medium,low,7,namesilo,,,13/09/2026 13:43
 67810134-e312-45b6-bd7c-38e76a62f342,ibidem.game,available,309.99,429.99,medium,low,6,namesilo,,,15/09/2026 01:34
-06823a1a-deb6-4ef9-968c-bf4dff5adb1d,foldaway.game,available,309.99,329.99,medium,low,8,namesilo,,,18/08/2026 10:07
+06823a1a-deb6-4ef9-968c-bf4dff5adb1d,foldaway.game,available,309.99,329.99,high,low,8,namesilo,,,18/08/2026 10:07
+b66f8020-f677-4283-b37d-a3b5fa689a58,nationals.game,premium,1430,1430,high,medium,9,dynadot,,,29/09/2026 17:35
 0d1afb8b-7701-4e98-b7fe-a8024cd2a29a,victual.game,available,310.98,498,medium,low,7,namecheap,,,12/08/2026 18:51
 02159259-d145-45d5-8b43-82e9a0d58765,ambulation.game,available,309.99,429.99,medium,low,10,namesilo,,,18/09/2026 17:29
 7a140eb2-bcdf-47b2-9d50-896b7129b259,barleycorn.game,available,310.98,547.98,medium,low,10,namecheap,,,22/09/2026 06:31
@@ -80,7 +89,7 @@ e18692fe-610e-4b62-a6a7-8313fbce7060,radial.game,available,309.99,429.99,high,lo
 457e57ac-2955-4db5-b411-db5150f5303b,whitney.game,available,310.98,547.98,medium,low,7,namecheap,,,28/09/2026 13:59
 ef20c96b-ce7b-45f4-b115-dcf7766b4b65,nature.game,premium,1690,1690,high,low,6,namecheap,,,08/09/2026 02:43
 9c9192b2-1478-487c-8fa6-4adc17860b71,dipper.game,available,309.99,429.99,high,low,6,namesilo,,,23/09/2026 14:29
-a90d9066-b6bc-44f0-915c-8c296f157baa,gee.game,available,309.99,329.99,high,low,3,namesilo,,,
+a90d9066-b6bc-44f0-915c-8c296f157baa,gee.game,available,279.65,341.75,high,low,3,spaceship,,,29/09/2026 20:19
 7b2a83ee-e435-4358-bdc0-c8da71622b9e,graves.game,available,279.65,341.75,high,low,6,spaceship,,,28/09/2026 05:52
 07753410-af11-4c7b-9d36-043f352fd7fd,bellamy.game,available,279.65,341.75,medium,low,7,spaceship,,,28/09/2026 12:15
 d42c02d1-1e93-48d9-ad80-4880b34f074d,androgenic.game,available,309.99,329.99,medium,low,10,namesilo,,,
@@ -117,14 +126,16 @@ a54ebfc7-6849-43cb-8f6f-1714b7e19b2f,benzoin.game,available,309.99,429.99,medium
 11e67d7d-f258-43ba-979e-8d86281d6678,punkie.game,available,309.99,429.99,medium,low,6,namesilo,,,23/09/2026 22:31
 564a8800-43d0-4cc6-8628-c9200a2cf175,cursorial.game,available,309.99,329.99,medium,low,9,namesilo,,,13/08/2026 11:40
 f70524f7-81ff-4047-8144-6026692c256e,protecting.game,available,310.98,547.98,high,low,10,namecheap,,,27/09/2026 02:52
-02827934-a6b0-4fcd-8765-9dea245ab99f,lapp.game,available,310.98,547.98,medium,low,4,namecheap,,,19/09/2026 15:44
+02827934-a6b0-4fcd-8765-9dea245ab99f,lapp.game,available,310.98,547.98,high,low,4,namecheap,,,19/09/2026 15:44
 d24a92a9-149a-496e-a1ed-77dab97a265e,apiece.game,available,309.99,329.99,medium,low,6,namesilo,,,14/08/2026 22:12
 ce2813a1-e5d6-411c-a8cd-f0fc5d448e64,dovish.game,available,309.99,329.99,medium,low,6,namesilo,,,14/08/2026 17:07
 68f3622d-4d33-40fc-9d20-b87c5caa6697,occupy.game,available,309.99,429.99,high,low,6,namesilo,,,23/09/2026 12:12
 cb9d4689-69f8-4d7e-b36c-22d6b96d096b,triangle.game,available,310.98,547.98,high,low,8,namecheap,,,28/09/2026 09:33
+739d6a9a-64ed-4074-850f-5b3cec926819,reinforcement.game,available,309.99,429.99,high,low,13,namesilo,,,29/09/2026 22:51
+aa482866-da8b-4ced-99bc-464a558bd3ef,stride.game,premium,1419.68,1419.68,high,low,6,porkbun,,,29/09/2026 08:09
 851f9fd3-1957-418a-8892-4a0664f6fe76,nuclei.game,available,309.99,329.99,medium,low,6,namesilo,,,
-e7ad642e-bba7-48e8-bb11-fc4818f26d4b,channels.game,available,309.99,329.99,high,low,8,namesilo,,,
-15f2475c-9b71-4a84-88c1-2e80d532c7c0,curtain.game,available,349.99,,high,low,7,name.com,,,
+e7ad642e-bba7-48e8-bb11-fc4818f26d4b,channels.game,available,279.65,341.75,high,low,8,spaceship,,,29/09/2026 08:04
+15f2475c-9b71-4a84-88c1-2e80d532c7c0,curtain.game,available,309.47,340.37,high,low,7,porkbun,,,29/09/2026 13:08
 92d70815-8e4b-4fd8-bd97-277262960e73,germfree.game,available,309.99,329.99,medium,low,8,namesilo,,,18/08/2026 22:48
 35d26a43-4cfa-4556-b937-88f6951b1b43,impressions.game,available,309.99,353.32,medium,low,11,dynadot,,,28/09/2026 23:21
 c82d1baf-bb91-457a-8e1e-32383e93c9f7,hushed.game,available,309.99,329.99,medium,low,6,namesilo,,,21/08/2026 15:54
@@ -132,6 +143,8 @@ c82d1baf-bb91-457a-8e1e-32383e93c9f7,hushed.game,available,309.99,329.99,medium,
 7b35e12c-f9fd-40a2-9eb2-8697fd998ac0,ernie.game,available,309.99,429.99,high,low,5,namesilo,,,27/09/2026 07:15
 3b8ae92a-d931-477e-b60d-a90013f9cfdf,extramural.game,available,310.98,498,medium,low,10,namecheap,,,17/08/2026 19:18
 3dacd597-8807-4691-ae3f-bb2a82e1aa75,asura.game,available,310.98,547.98,high,low,5,namecheap,,,20/09/2026 18:26
+00604cca-ea34-4559-83cd-0400b27e62d2,reims.game,available,309.99,429.99,high,low,5,namesilo,,,29/09/2026 13:45
+cd24c674-811a-4f98-a45f-be15edbe9b04,needles.game,available,279.65,341.75,high,low,7,spaceship,,,29/09/2026 08:51
 cf64d5ed-d5a3-4d34-afef-b1a736a74a04,invading.game,available,309.99,329.99,medium,low,8,namesilo,,,22/08/2026 02:12
 e4144ac4-4a9b-487f-89f0-4f54cfcb01aa,withdrawal.game,available,309.99,429.99,high,low,10,namesilo,,,21/09/2026 15:22
 36421a14-a283-453f-9d8a-4e0f1bc8d089,plop.game,available,309.99,429.99,medium,low,4,namesilo,,,15/09/2026 20:39
@@ -146,6 +159,7 @@ dcdd5a03-2214-40f6-bd68-e79e06f40de2,manic.game,available,309.99,329.99,high,low
 eafa126f-1616-4aa4-acc0-493c0ff97844,skittish.game,available,309.99,429.99,medium,low,8,namesilo,,,10/09/2026 09:48
 a4bc265b-9d33-407e-a283-0828531b76ea,sorted.game,available,310.98,498,high,low,6,namecheap,,,20/08/2026 20:24
 a2ce57b9-5637-4441-84b8-c132cb0e6498,backstay.game,available,310.98,547.98,medium,low,8,namecheap,,,21/09/2026 16:03
+5671e77c-3d2c-4dcd-8c76-d9f7646109b3,multimedia.game,available,309.99,429.99,high,low,10,namesilo,,,30/09/2026 02:20
 25f9a5fa-ec28-4e83-9816-f8343f02b043,hesperides.game,available,309.99,429.99,medium,low,10,namesilo,,,20/09/2026 21:44
 3a406027-2570-4831-a35b-632f8d4ae8f2,warner.game,premium,1729,1729,high,low,6,namesilo,,,28/09/2026 05:27
 732ce9f4-58b1-479d-8d63-f3f2e2bfb6c2,inspection.game,available,309.99,429.99,high,low,10,namesilo,,,28/09/2026 03:38
@@ -155,16 +169,18 @@ a2ce57b9-5637-4441-84b8-c132cb0e6498,backstay.game,available,310.98,547.98,mediu
 052f5762-58d5-4b97-8ccd-3373abfe2b77,bargee.game,available,310.98,547.98,medium,low,6,namecheap,,,22/09/2026 05:47
 ec5d84c5-0cca-4888-8c25-475a6afbcecc,kay.game,available,309.99,429.99,high,low,3,namesilo,,,26/09/2026 00:52
 ff6dfb55-8c2b-4f1e-b39b-2e938f3e0a59,elise.game,available,300.2,300.2,medium,low,5,cloudflare,,,28/09/2026 21:52
+aceceb82-513f-4328-879f-4f870e7c4f9d,gimme.game,available,310.98,547.98,high,low,5,namecheap,,,29/09/2026 14:22
 546016d5-d292-458b-b15c-98c7d9345b02,dandyish.game,available,349.99,616.99,medium,low,8,name.com,,,13/08/2026 17:03
 92ece238-7ad1-4319-b5dc-1dfbaba076d4,assouan.game,available,309.99,429.99,medium,low,7,namesilo,,,20/09/2026 16:37
 88636340-80fa-4749-a7fa-1a1ab38dc394,left.game,available,309.99,429.99,high,low,4,namesilo,,,25/09/2026 13:25
+9ad144bb-af1b-4d08-9470-f42c670ddf7c,hank.game,available,279.65,341.75,high,low,4,spaceship,,,29/09/2026 19:07
 d05be99f-6781-4347-94f5-ce1bf0b8f68d,supreme.game,premium,1345.7,1345.7,high,medium,7,spaceship,,,28/09/2026 02:04
 afd194ee-f2ae-4cb6-bda2-7bf2b47db23d,westport.game,available,309.99,429.99,medium,low,8,namesilo,,,28/09/2026 08:11
 e6ebc31f-7d5b-4e27-a853-8202a05e9904,incoherent.game,available,309.99,329.99,medium,low,10,namesilo,,,22/08/2026 01:42
 94af3c9b-4f40-41d0-b2bb-d4532544bc10,herein.game,available,309.99,429.99,medium,low,6,namesilo,,,15/09/2026 00:30
 21c8d85f-95be-417e-96b8-56982d91a9d9,miniature.game,available,309.99,329.99,high,low,9,namesilo,,,24/08/2026 23:48
 cdc4c11c-a663-4f98-97fc-1e5c12579271,lucrative.game,available,309.99,429.99,high,low,9,namesilo,,,25/09/2026 15:34
-ef536868-d4ee-4367-b307-e5417d04dc8b,lafayette.game,available,309.99,329.99,high,low,9,namesilo,,,
+ef536868-d4ee-4367-b307-e5417d04dc8b,lafayette.game,available,279.65,341.75,high,low,9,spaceship,,,30/09/2026 01:47
 5ca8c574-ef26-49d2-82ec-3476288b3982,palladium.game,premium,1690,1690,high,low,9,namecheap,,,20/09/2026 23:10
 3ee33bc4-acfb-45ac-8c92-cc9f64b001dd,dipylon.game,available,309.99,329.99,medium,low,7,namesilo,,,14/08/2026 08:43
 4533d6d3-a703-49a4-b192-5f818291ab9f,quickset.game,available,310.98,547.98,medium,low,8,namecheap,,,09/09/2026 08:43
@@ -173,17 +189,19 @@ c57fd2e3-50c7-4546-8846-3032221f38e9,spacetravel.game,available,309.99,329.99,hi
 3def41b6-a744-46ce-82d0-7161ac047fc7,callous.game,available,309.99,329.99,medium,low,7,namesilo,,,11/08/2026 14:30
 be5cae96-a65f-4906-8ffb-8d99036f6068,hangbird.game,available,309.99,429.99,medium,low,8,namesilo,,,22/09/2026 00:20
 87373915-2c45-4fe9-9f06-0d8e2d603249,ambient.game,available,309.99,329.99,high,low,7,namesilo,,,
+73be63a9-e514-4ac6-937b-63819a95cb0e,adolphus.game,available,309.99,429.99,medium,low,8,namesilo,,,29/09/2026 15:26
 3dacef91-6ed2-46a0-9844-b33aa59f1fd3,trembling.game,available,309.99,429.99,high,medium,9,namesilo,,,10/09/2026 06:41
 c015024d-d0d8-4211-a80d-45a8c34a92b1,burnish.game,available,309.99,429.99,high,low,7,namesilo,,,08/09/2026 23:02
 b9877ab0-99fd-427b-9d77-fd96da601dda,clxx.game,available,309.99,329.99,medium,low,4,namesilo,,,
+48ec865a-fab4-43f9-871c-e23516496700,dramatically.game,available,279.65,341.75,high,low,12,spaceship,,,29/09/2026 14:45
 839608cc-7088-4ce6-9597-404c13799ae9,digging.game,available,309.99,429.99,high,low,7,namesilo,,,27/09/2026 13:02
 121977fb-8ac0-4992-81be-d5a09cec4d79,cut.game,premium,1729,1729,high,low,3,namesilo,,,24/09/2026 12:16
-a81fdcc8-1d60-4fa3-a6bd-4514b5176888,jerome.game,available,309.99,429.99,medium,low,6,namesilo,,,25/09/2026 05:46
+a81fdcc8-1d60-4fa3-a6bd-4514b5176888,jerome.game,available,309.99,429.99,high,low,6,namesilo,,,25/09/2026 05:46
 c6588df5-31e4-431a-8a7e-d58f7bb3bcc4,flinty.game,available,309.99,329.99,medium,low,6,namesilo,,,18/08/2026 08:18
 664bcf89-2b95-4814-8cfc-0cc29d28cb37,juiceless.game,available,309.99,329.99,medium,low,9,namesilo,,,22/08/2026 14:18
-6ea8bffa-42c3-43ed-9e0d-c49589112aa4,fiberoptic.game,available,309.99,329.99,medium,low,10,namesilo,,,18/08/2026 03:12
-e4819b9e-fa2e-4c91-871b-5d4446e8dfae,accrual.game,available,309.99,429.99,medium,low,7,namesilo,,,16/09/2026 23:14
-a24dae0d-3811-4774-b358-7fdbe834dec1,taste.game,available,349.99,,high,low,5,name.com,,,
+6ea8bffa-42c3-43ed-9e0d-c49589112aa4,fiberoptic.game,available,309.99,329.99,high,low,10,namesilo,,,18/08/2026 03:12
+e4819b9e-fa2e-4c91-871b-5d4446e8dfae,accrual.game,available,309.99,429.99,high,low,7,namesilo,,,16/09/2026 23:14
+a24dae0d-3811-4774-b358-7fdbe834dec1,taste.game,available,309.99,429.99,high,low,5,namesilo,,,29/09/2026 21:45
 df5c25a0-b6a1-4089-a4a3-59c71cf0384e,advisedly.game,available,309.99,429.99,medium,low,9,namesilo,,,13/09/2026 17:38
 4aa14221-c172-4a88-b92a-e09a06541d97,fractious.game,available,309.99,329.99,medium,low,9,namesilo,,,18/08/2026 13:53
 1b8ff392-fe2f-4315-88d0-e8277900a98d,avellan.game,available,309.99,329.99,medium,low,7,namesilo,,,07/08/2026 22:24
@@ -191,17 +209,21 @@ df5c25a0-b6a1-4089-a4a3-59c71cf0384e,advisedly.game,available,309.99,429.99,medi
 f97ac20c-9da4-4734-a0d0-acd534571f32,morris.game,available,309.99,429.99,high,low,6,namesilo,,,25/09/2026 05:42
 b13e87e1-5f66-40af-817f-f9cd5dd8a0c4,seraphic.game,available,309.99,329.99,high,low,8,namesilo,,,12/08/2026 04:26
 381b3a39-a2c5-4602-9a47-4da844d35780,comforted.game,available,309.99,429.99,high,low,9,namesilo,,,23/09/2026 15:14
+3c5c1cc9-90ea-44dc-88da-63febbdaa258,conditionally.game,available,309.99,429.99,medium,low,13,namesilo,,,29/09/2026 14:42
 d0ffc52a-9e2a-4ae3-9cbb-e7f9a61e9d77,avocet.game,available,309.99,429.99,medium,low,6,namesilo,,,21/09/2026 09:44
+3e2d33dd-5cf8-4d02-a7ad-d0cbe058eb84,gsm.game,available,309.99,353.32,high,low,3,dynadot,,,29/09/2026 15:14
 42631c1e-0492-4d00-a030-faf75771a604,relieved.game,available,309.99,329.99,high,low,8,namesilo,,,
 70b33e12-28a9-42e2-86cc-ad54ddb923e9,galling.game,available,309.99,329.99,high,low,7,namesilo,,,
 44694ff7-95a6-4f68-b94a-e9de3f7b454d,bergman.game,available,310.98,547.98,high,low,7,namecheap,,,23/09/2026 09:21
 b0521552-a842-47b6-908b-1df7e9c4e972,beecher.game,available,309.99,429.99,medium,low,7,namesilo,,,23/09/2026 00:12
 e7bca50b-472e-464b-ba89-1890a759e81d,bones.game,available,279.65,341.75,medium,low,5,spaceship,,,29/09/2026 03:19
 803fa6ab-3b6d-433a-9e5a-728d758056b2,maturation.game,available,310.98,498,high,low,10,namecheap,,,20/08/2026 20:27
+c9a06de4-7357-4d77-a506-d96a6ec07972,doncaster.game,available,279.65,341.75,high,low,9,spaceship,,,29/09/2026 23:47
 27a8fdb7-d50c-4925-916b-a4c252fed905,opulent.game,available,309.99,329.99,high,low,7,namesilo,,,14/08/2026 00:58
 6c35ad44-ca42-43d5-a6b4-448e77f66b9b,lanthanum.game,available,309.99,429.99,medium,low,9,namesilo,,,20/09/2026 23:20
 8ac2b662-8169-412d-9f6b-85a790109d9f,federalist.game,available,309.47,340.37,medium,low,10,porkbun,,,28/09/2026 19:11
-3e84fa4a-1dbf-480d-a895-c77f5ddfe4f2,invite.game,premium,1625,,high,low,6,name.com,,,
+3e84fa4a-1dbf-480d-a895-c77f5ddfe4f2,invite.game,premium,1345.7,1345.7,high,low,6,spaceship,,,30/09/2026 00:22
+cfc2a0a2-26ac-468f-97b9-c382867d8baf,homosexuality.game,available,300.2,300.2,high,low,13,cloudflare,,,29/09/2026 10:16
 3df72cc0-2c9c-4011-a979-8442fbe56e40,companion.game,available,310.98,547.98,high,low,9,namecheap,,,24/09/2026 16:40
 88877c93-99f5-47a0-b729-a992bd030dce,pitted.game,available,309.99,329.99,medium,low,6,namesilo,,,
 f9082823-2e03-4514-b8fd-92815d0d5ac2,acrylic.game,available,349.99,619.99,high,low,7,name.com,,,17/09/2026 04:05
@@ -213,9 +235,9 @@ d879a45b-bf0b-4b6f-a97d-02424e4d0478,congregational.game,available,309.99,329.99
 235a8399-04eb-4449-9de0-90ec1e3cde76,glassy.game,available,309.99,329.99,high,low,6,namesilo,,,20/08/2026 14:12
 6f213eb8-577b-46ff-941f-8ebde93b9b75,contracts.game,available,309.99,429.99,medium,low,9,namesilo,,,28/09/2026 08:33
 be27b143-802e-4cb9-855d-dc3080f3f499,tracing.game,available,309.99,329.99,high,low,7,namesilo,,,
-e8015b66-7148-4e3c-8e6b-573dc7e1b7cd,quenched.game,available,309.99,429.99,medium,low,8,namesilo,,,09/09/2026 08:25
+e8015b66-7148-4e3c-8e6b-573dc7e1b7cd,quenched.game,available,309.99,429.99,high,low,8,namesilo,,,09/09/2026 08:25
 702e58d9-2f23-4043-a8a1-b5e99a1e611c,jumbled.game,available,309.99,329.99,medium,low,7,namesilo,,,21/08/2026 08:39
-fef8a9ce-f359-48b7-8ab5-77c0ec2c0287,carte.game,available,309.99,429.99,medium,low,5,namesilo,,,23/09/2026 16:04
+fef8a9ce-f359-48b7-8ab5-77c0ec2c0287,carte.game,available,309.99,429.99,high,low,5,namesilo,,,23/09/2026 16:04
 ba7aa314-ac4e-4dd2-94c0-cae529e2c76e,welcoming.game,available,309.99,429.99,high,low,9,namesilo,,,13/09/2026 10:14
 0992dafe-775b-4596-8614-74a74fbffe11,indic.game,available,309.99,329.99,medium,low,5,namesilo,,,22/08/2026 03:16
 7c557c8a-955e-44e9-8dd3-f023b14318dc,isfahan.game,available,309.99,429.99,medium,low,7,namesilo,,,20/09/2026 14:32
@@ -223,7 +245,7 @@ d49bcf4e-9bf0-416d-9958-7fc164378bca,effort.game,available,309.47,340.37,high,lo
 62daf90f-52c9-45e4-9fe0-9d648bccf4dd,providing.game,available,310.98,547.98,high,low,9,namecheap,,,28/09/2026 07:19
 5010e090-3ba0-4106-abb1-51bafcb803d4,precisely.game,available,309.99,429.99,high,low,9,namesilo,,,04/09/2026 14:15
 5f0cc227-b70c-42b3-a08a-263c0a6da170,slopped.game,available,309.99,329.99,low,low,7,namesilo,,,09/08/2026 15:45
-dada63b1-51b6-48fb-974c-05fd2e6cfdca,capitol.game,available,309.99,329.99,high,low,7,namesilo,,,
+dada63b1-51b6-48fb-974c-05fd2e6cfdca,capitol.game,available,309.99,429.99,high,low,7,namesilo,,,29/09/2026 07:23
 266c2755-7070-416a-8632-7f6ff5951a04,resilient.game,available,309.99,329.99,high,low,9,namesilo,,,10/08/2026 21:47
 ddbc4456-ddda-4ce8-98fa-66dfb8ed5e55,liquefied.game,available,309.99,329.99,medium,low,9,namesilo,,,23/08/2026 22:01
 6d9a2e8c-a729-4bf8-97d0-ce869b1cdb77,intriguing.game,available,309.99,429.99,high,low,10,namesilo,,,25/09/2026 10:52
@@ -233,7 +255,8 @@ c888f432-8759-4d35-a793-abce6914b08d,aestival.game,available,309.99,329.99,mediu
 7145c056-cbd3-4979-bc32-161b1a059ac1,scab.game,available,309.99,429.99,medium,low,4,namesilo,,,24/09/2026 02:52
 2ee7c44f-247b-4225-890c-1a51b19dc2b3,decoders.game,available,309.99,429.99,medium,low,8,namesilo,,,20/09/2026 07:41
 5c226c77-3ee3-4fa7-a4ef-882472d12e03,turgid.game,available,310.98,498,medium,low,6,namecheap,,,10/08/2026 18:07
-59f5ea47-d139-4b41-a8a7-36278eefaf54,loyalist.game,available,309.99,429.99,medium,low,8,namesilo,,,10/09/2026 18:31
+59f5ea47-d139-4b41-a8a7-36278eefaf54,loyalist.game,available,309.99,429.99,high,low,8,namesilo,,,10/09/2026 18:31
+0e20cf16-fb0d-4bdf-9c7b-02fb9d97f783,blm.game,available,309.47,340.37,high,low,3,porkbun,,,29/09/2026 09:47
 64784c66-39d5-41b5-9585-ccae64d2c6e6,sesame.game,available,309.99,429.99,high,low,6,namesilo,,,23/09/2026 08:27
 8fb317cb-da04-45c0-8e06-8697d73b2a9d,rudy.game,available,309.99,429.99,high,low,4,namesilo,,,27/09/2026 07:02
 3ad89b10-9d39-44ba-a2ea-dedb3fee2ecf,tewkesbury.game,available,309.99,429.99,medium,low,10,namesilo,,,22/09/2026 16:07
@@ -246,13 +269,16 @@ f7af344e-e574-4d7a-a607-dc28e7a48fda,investigation.game,available,309.99,429.99,
 b2111222-a342-4305-bdf1-5cdb281e7f69,plebeian.game,available,310.98,547.98,medium,low,8,namecheap,,,08/09/2026 21:00
 a8ff0142-d082-4a90-ac46-d4f560cc1ca6,liveness.game,available,310.98,547.98,high,low,8,namecheap,,,19/09/2026 09:04
 ed7577a6-597e-4708-9797-b21bba56c09e,carbonated.game,available,309.99,329.99,medium,low,10,namesilo,,,11/08/2026 18:39
+b9ac7c02-8799-45a1-9379-50695b79322f,cbe.game,available,279.65,341.75,high,low,3,spaceship,,,29/09/2026 09:19
 a310af8a-0f32-44b3-a258-c190bc9e7050,armorial.game,available,309.99,329.99,medium,low,8,namesilo,,,06/08/2026 20:15
 ca1aae1a-011d-4dd1-b88b-01da9c889c40,hepatic.game,available,309.99,329.99,medium,low,7,namesilo,,,21/08/2026 06:47
 575c0d06-ae50-4a05-8e73-354e8eb462fe,court.game,premium,1625,,high,low,5,name.com,,,27/09/2026 16:05
 c5f58051-c4a1-4b65-ae54-3df22b518412,highness.game,available,300.2,300.2,high,low,8,cloudflare,,,28/09/2026 14:27
 4cc38ed7-dea2-453a-a73a-bdcec89c7bab,fortify.game,available,309.99,429.99,high,low,7,namesilo,,,20/09/2026 06:18
 b0a45c95-d8fd-4a83-b858-779a4b96da6d,tattoo.game,premium,1729,1729,high,low,6,namesilo,,,27/09/2026 05:36
+4c76663c-8081-4e34-8323-e89e3d21df98,manipulated.game,available,309.99,429.99,medium,low,11,namesilo,,,29/09/2026 16:09
 70fa10a5-7d19-453d-a56d-4b2a3c3c435d,mrs.game,available,309.99,429.99,high,low,3,namesilo,,,25/09/2026 09:30
+63efafd5-dd54-4818-a09d-cf85ce627df8,upbringing.game,available,279.65,341.75,high,low,10,spaceship,,,29/09/2026 18:06
 9031e4b4-c57d-4bfb-ad88-d12b24301cc4,grand.game,available,309.99,429.99,high,low,5,namesilo,,,21/09/2026 11:05
 e989206b-9bae-4d17-9376-cd909f1e08a2,bilk.game,available,309.99,429.99,medium,low,4,namesilo,,,09/09/2026 08:21
 aabeb2c1-8b0e-42c7-8a6c-c1a6eba6123b,mick.game,available,309.99,429.99,high,low,4,namesilo,,,28/09/2026 02:25
@@ -260,22 +286,25 @@ dfa8dfd8-8e2e-4767-bde4-18276171385a,ariled.game,available,310.98,498,medium,low
 033d183c-30f7-49cb-a1e0-c46d9493d09c,maturely.game,available,309.99,429.99,medium,low,8,namesilo,,,15/09/2026 13:40
 8307f1b1-ec05-42e5-83a4-b84c214fc020,liter.game,available,309.99,329.99,high,medium,5,namesilo,,,22/08/2026 17:07
 d6ecf970-62f2-4eec-a062-3e5849bac292,remove.game,available,309.99,429.99,high,low,6,namesilo,,,21/09/2026 14:40
+c360c059-c20d-48fb-b687-bf9373ab6102,transformed.game,available,279.65,341.75,high,low,11,spaceship,,,29/09/2026 10:35
 8603debc-0b8a-43e9-b038-14907f75c99a,cheery.game,available,309.99,329.99,high,low,6,namesilo,,,12/08/2026 03:56
 e8558f09-ffe4-4691-95a9-96143c75f607,antigua.game,available,309.99,429.99,high,low,7,namesilo,,,19/09/2026 14:32
 e37f5e8b-421c-4c53-a26f-1113da4ab4e3,grizzled.game,available,310.98,498,medium,low,8,namecheap,,,20/08/2026 20:11
 65231823-b6c9-4419-a6fd-0e163b01fa9e,rest.game,available,279.65,341.75,high,low,4,spaceship,,,27/09/2026 12:11
 f17ce9ff-c9e3-4608-ab7c-e3b03d807b8f,greenish.game,available,349.99,616.99,medium,low,8,name.com,,,13/08/2026 18:01
 4eedc68a-7d38-4a30-a782-a0a4a3886ed9,unlit.game,available,309.99,429.99,medium,low,5,namesilo,,,12/09/2026 13:03
+f86dde67-d0e6-4a42-b26d-26da08873bc4,literacy.game,available,699.99,699.99,high,low,8,godaddy,,,30/09/2026 02:09
 5fd2d8ba-f86c-4a66-96fd-00c4866f4eb0,bromley.game,available,279.65,341.75,medium,low,7,spaceship,,,28/09/2026 17:16
 a8c19ab9-a3b9-4daa-a293-ac295ec698f3,elliott.game,available,310.98,547.98,high,low,7,namecheap,,,25/09/2026 21:06
-ccf33cf5-8c25-4e05-9b99-329cdce7fab7,impress.game,available,309.99,329.99,high,low,7,namesilo,,,
+ccf33cf5-8c25-4e05-9b99-329cdce7fab7,impress.game,available,279.65,341.75,high,low,7,spaceship,,,29/09/2026 23:37
 1ddcd484-b3c3-453a-acb4-6de6f4ea397f,unhatched.game,available,309.99,429.99,medium,low,9,namesilo,,,12/09/2026 12:05
-f6cb3635-d8cf-40ac-8192-ef045fd7b852,newark.game,available,309.47,340.37,medium,low,6,porkbun,,,28/09/2026 19:59
+8b281724-628d-4f87-a6c3-23d354d08a73,regeneration.game,available,279.65,341.75,high,low,12,spaceship,,,29/09/2026 22:53
+f6cb3635-d8cf-40ac-8192-ef045fd7b852,newark.game,available,309.47,340.37,high,low,6,porkbun,,,28/09/2026 19:59
 4be495e1-a9f6-4bde-9652-17ee726b88a3,limpid.game,available,309.99,329.99,high,low,6,namesilo,,,13/08/2026 09:41
 35cf5d2b-f057-410f-a8b2-b17d479b4b1d,equation.game,available,300.2,300.2,high,low,8,cloudflare,,,28/09/2026 19:06
 6943e651-e5e3-4dfb-82cb-2566f74d73ab,grady.game,available,309.47,340.37,medium,low,5,porkbun,,,28/09/2026 08:08
 af3e86de-ab53-4c29-8d7e-9bc0ffb3acc3,lithe.game,available,279.65,341.75,high,low,5,spaceship,,,28/09/2026 07:58
-5d3c3ff6-4399-4deb-ad01-6685d566a6ac,phone.game,premium,1625,,high,low,5,name.com,,,
+5d3c3ff6-4399-4deb-ad01-6685d566a6ac,phone.game,premium,1430,1430,high,low,5,dynadot,,,29/09/2026 17:28
 f8cbc2be-8ee3-4f05-aaec-9726f305aa5c,ses.game,available,279.65,341.75,high,low,3,spaceship,,,28/09/2026 12:11
 2abd8658-8b9c-4834-8bd3-294d9f0fb611,jitney.game,available,309.99,429.99,medium,low,6,namesilo,,,21/09/2026 05:56
 6369bbd0-145a-42ca-a93f-58a91ea99294,binocular.game,available,309.99,329.99,high,low,9,namesilo,,,10/08/2026 00:15
@@ -285,20 +314,20 @@ fb434d9d-76a5-4eed-a429-848bfd4f26fc,alcides.game,available,309.99,429.99,medium
 794f5137-07c4-4658-8e52-2feb001e40af,cartagena.game,available,309.99,429.99,medium,low,9,namesilo,,,29/09/2026 00:21
 b6eb4338-6d23-426b-aa60-4c535eb7537e,wavell.game,available,309.99,429.99,medium,low,6,namesilo,,,20/09/2026 02:03
 a29906e2-095d-4c89-87b1-bc98ae57e905,associated.game,available,279.65,341.75,medium,low,10,spaceship,,,28/09/2026 08:17
-6d3f3c39-fc85-4be3-a66c-e62ffbcfee65,birken.game,available,309.99,329.99,medium,low,6,namesilo,,,10/08/2026 06:03
+6d3f3c39-fc85-4be3-a66c-e62ffbcfee65,birken.game,available,309.99,329.99,high,low,6,namesilo,,,10/08/2026 06:03
 a83f0fe2-6ef0-4fa7-b9be-4c96000ef64a,dais.game,available,309.99,429.99,high,low,4,namesilo,,,18/09/2026 17:12
 f8ea8348-56fb-4def-b6e2-3e380d53381b,carrying.game,available,309.99,329.99,high,low,8,namesilo,,,
 a4793cf2-a0ee-42c2-80fe-ce754c15daa7,yesterday.game,available,309.99,429.99,high,low,9,namesilo,,,28/09/2026 16:50
 3fa228b1-1509-4f47-81b5-064e92b2ea1d,paranoid.game,available,309.99,429.99,high,low,8,namesilo,,,08/09/2026 01:06
 89b56834-34e7-425c-884f-6eb08c0c1986,activist.game,available,309.99,429.99,high,low,8,namesilo,,,21/09/2026 16:34
-5e053193-7575-403c-86a1-a3af3eb80e31,golf.game,resell,,,high,medium,4,Porkbun LLC,13/12/2020 02:40,13/12/2026 23:59,26/09/2026 06:26
 36d89120-5c45-400a-ae33-67cf078267fd,dollars.game,available,309.99,429.99,high,low,7,namesilo,,,17/09/2026 07:00
-739e6290-8a2a-440e-a909-44aa869f34c5,amman.game,available,309.99,429.99,medium,low,5,namesilo,,,18/09/2026 21:59
+739e6290-8a2a-440e-a909-44aa869f34c5,amman.game,available,309.99,429.99,high,low,5,namesilo,,,18/09/2026 21:59
+ea60d43b-e38e-454a-aa62-9edfecfd79c9,pilgrimage.game,available,279.65,341.75,high,low,10,spaceship,,,29/09/2026 20:00
 156fc853-a77e-4a88-aa39-4919c2cb2b83,provides.game,available,309.99,429.99,medium,low,8,namesilo,,,16/09/2026 11:52
 b0c5a7ac-66bd-488c-8cc2-788c40e169ec,ninepenny.game,available,309.99,429.99,low,low,9,namesilo,,,03/09/2026 17:37
 38859353-9e69-46a5-ab22-a06680b68995,balsa.game,available,310.98,547.98,high,low,5,namecheap,,,21/09/2026 23:56
 73c73798-e8d3-466d-abb9-0f7a091291b6,deniable.game,available,309.99,329.99,medium,low,8,namesilo,,,14/08/2026 01:50
-14a58274-f249-4b20-b0ee-8c563906eecf,activeness.game,available,309.99,429.99,medium,low,10,namesilo,,,17/09/2026 05:11
+14a58274-f249-4b20-b0ee-8c563906eecf,activeness.game,available,309.99,429.99,high,low,10,namesilo,,,17/09/2026 05:11
 2e68e7a6-96d3-4271-b20d-e08dec4e7171,ceremony.game,available,309.99,429.99,high,low,8,namesilo,,,08/09/2026 07:31
 50ec1e94-2aa9-4fd4-aff4-aedc6aeb33c6,john.game,premium,1690,1690,high,medium,4,namecheap,,,09/09/2026 02:17
 7781815d-29f9-4951-9804-ce8943eb712b,gloomy.game,available,309.99,329.99,medium,low,6,namesilo,,,14/08/2026 11:40
@@ -307,12 +336,14 @@ b0c5a7ac-66bd-488c-8cc2-788c40e169ec,ninepenny.game,available,309.99,429.99,low,
 0166e886-73c9-49c2-b320-070611d8ded8,snowballs.game,available,310.98,547.98,medium,low,9,namecheap,,,19/09/2026 21:49
 c6917990-519f-4fc6-b918-519cb6a1f91f,severn.game,available,309.99,429.99,medium,low,6,namesilo,,,28/09/2026 15:15
 e1e0589a-648b-4071-9745-ea1a2c13a6d5,ship.game,available,309.99,329.99,high,low,4,namesilo,,,
+0c3a174a-2c21-4030-95fd-c6821957cc52,cancellation.game,available,309.99,429.99,medium,low,12,namesilo,,,29/09/2026 10:21
 f141b6bd-3409-47cd-a18f-646cae6b8d05,volvo.game,premium,1625,,high,low,5,name.com,,,
 851d0548-143d-4f39-b3ef-03e6b71686bb,novelist.game,available,309.99,429.99,high,low,8,namesilo,,,29/09/2026 01:44
-2196bfb2-cabb-4551-9cef-9c40bb96a817,gusto.game,available,309.99,329.99,high,low,5,namesilo,,,
+2196bfb2-cabb-4551-9cef-9c40bb96a817,gusto.game,available,309.99,429.99,high,low,5,namesilo,,,29/09/2026 21:46
 080ef162-9cc1-4c39-b7af-36dc34ef5c0a,coeliac.game,available,309.99,329.99,medium,low,7,namesilo,,,12/08/2026 15:21
 f0e878a3-b63a-4c64-b0d3-85e260accb16,platelike.game,available,310.98,547.98,high,low,9,namecheap,,,08/09/2026 20:17
 1c8055cc-b0fa-4483-b7a5-b5efefe6b6a6,activewear.game,available,309.99,429.99,high,low,10,namesilo,,,17/09/2026 05:14
+0cba364b-4f69-49fc-903e-3f9943cca987,beginnings.game,available,279.65,341.75,medium,low,10,spaceship,,,30/09/2026 00:17
 c8ed4d8a-880e-4af5-84b8-4e4e801a70cb,itv.game,available,300.2,300.2,high,medium,3,cloudflare,,,29/09/2026 03:49
 f5e3107a-a414-4fba-bb73-e7aa3667a2c0,aplitic.game,available,309.99,329.99,medium,low,7,namesilo,,,06/08/2026 00:35
 3d9a0cb3-5e99-43e9-9ea9-25019d724f1b,smithsonian.game,available,309.99,429.99,high,low,11,namesilo,,,25/09/2026 12:40
@@ -332,25 +363,25 @@ d2c0948b-da7e-49af-a190-9422d4cfa1ca,levine.game,available,309.99,429.99,medium,
 ced27e90-8700-436c-a68a-10a157c6f9a0,consequent.game,available,309.99,329.99,high,low,10,namesilo,,,
 efe2d776-ece8-450a-b53f-4318f90d4849,cia.game,available,310.98,547.98,high,medium,3,namecheap,,,24/09/2026 13:36
 b29a8b42-852e-4b08-bab0-fed0b9de80ec,shambolic.game,available,309.99,429.99,medium,low,9,namesilo,,,10/09/2026 05:51
-e421ebc7-7d38-460a-aea7-57b375aae832,richardson.game,available,310.98,547.98,medium,low,10,namecheap,,,28/09/2026 14:25
+e421ebc7-7d38-460a-aea7-57b375aae832,richardson.game,available,310.98,547.98,high,low,10,namecheap,,,28/09/2026 14:25
 6bc3107a-0585-48f6-8b5c-048178f7bec0,frozen.game,available,310.98,547.98,high,low,6,namecheap,,,24/09/2026 19:29
 417e12d6-85c7-46ab-85ba-7678b86b8ee6,midmost.game,available,309.99,329.99,medium,low,7,namesilo,,,24/08/2026 22:29
-aec0975b-b79a-4aeb-82e3-ec74ce9fad31,nascent.game,available,309.99,429.99,medium,low,7,namesilo,,,03/09/2026 13:35
+aec0975b-b79a-4aeb-82e3-ec74ce9fad31,nascent.game,available,309.99,429.99,high,low,7,namesilo,,,03/09/2026 13:35
 0e2d9bf5-91ec-4e85-8816-b6638f50e0a9,sunlight.game,available,349.99,,high,low,8,name.com,,,
 95af1ae2-aed1-4207-aaf6-376f84afb50c,searing.game,available,309.99,429.99,medium,low,7,namesilo,,,10/09/2026 00:54
-732fe4e4-a5e9-484c-88fd-aed8b66120cd,funk.game,available,279.65,341.75,medium,low,4,spaceship,,,28/09/2026 13:33
+732fe4e4-a5e9-484c-88fd-aed8b66120cd,funk.game,available,279.65,341.75,high,low,4,spaceship,,,28/09/2026 13:33
 4d6ce4c1-5bf8-4795-b45f-d84923c8785e,rob.game,available,310.98,547.98,high,low,3,namecheap,,,25/09/2026 22:49
-2419a798-5d81-4dfd-bedc-b3752a6aab7e,informing.game,available,309.99,329.99,high,low,9,namesilo,,,
+2419a798-5d81-4dfd-bedc-b3752a6aab7e,informing.game,available,300.2,300.2,high,low,9,cloudflare,,,30/09/2026 00:09
 9624221e-50b8-47af-aaa4-0e1effdceb82,fateful.game,available,309.99,329.99,medium,low,7,namesilo,,,11/08/2026 13:32
 47745635-dde0-4bf0-b270-ed338396461a,bns.game,available,310.98,547.98,high,low,3,namecheap,,,21/09/2026 14:15
 b30e1d4a-7402-4b9c-a6b3-3cde950a605f,apocope.game,available,310.98,547.98,medium,low,7,namecheap,,,19/09/2026 18:11
 de2199dd-6724-49d1-afdc-bac996aaba7a,laboring.game,available,310.98,498,medium,low,8,namecheap,,,14/08/2026 19:56
 0f030362-468d-40f3-9c37-0cd8527a37bb,basket.game,available,309.99,429.99,high,low,6,namesilo,,,29/09/2026 01:26
-6139d921-eb96-4499-82be-cc8ac3e87bf7,employer.game,available,309.99,329.99,high,low,8,namesilo,,,
+6139d921-eb96-4499-82be-cc8ac3e87bf7,employer.game,available,279.65,341.75,high,low,8,spaceship,,,29/09/2026 18:08
 64a6aa46-1f22-4d52-bdcd-c11ee52802fc,trade.game,premium,1729,1729,high,medium,5,namesilo,,,28/09/2026 02:51
 64a0955f-2f7c-4b8b-aeea-9be252abb5a8,ageratina.game,available,309.99,429.99,medium,low,9,namesilo,,,17/09/2026 17:21
 7eff0ded-b975-412b-8c09-2cbc93145403,saints.game,premium,1430,1430,medium,low,6,dynadot,,,28/09/2026 16:34
-82de3eae-d15a-46fe-9889-69da08c23fc8,invent.game,available,309.99,329.99,high,low,6,namesilo,,,
+82de3eae-d15a-46fe-9889-69da08c23fc8,invent.game,available,309.99,353.32,high,low,6,dynadot,,,29/09/2026 14:43
 302cfece-7890-4d9e-bff8-350bf4d2175f,translating.game,available,310.98,547.98,medium,low,11,namecheap,,,17/09/2026 20:51
 90e83d40-a15b-4d09-9f8e-7268d74e8912,immune.game,available,310.98,498,high,low,6,namecheap,,,21/08/2026 21:26
 40a35038-aad9-47a9-ae22-8bd6f8b7e31e,motionless.game,available,309.99,329.99,medium,low,10,namesilo,,,25/08/2026 07:28
@@ -359,13 +390,16 @@ de2199dd-6724-49d1-afdc-bac996aaba7a,laboring.game,available,310.98,498,medium,l
 5d9d7f5b-a738-4181-a6bd-69de0744a5cc,silvervine.game,available,309.99,429.99,medium,low,10,namesilo,,,17/09/2026 04:49
 f27bc996-f822-48f7-99b3-48bd11132021,pattern.game,available,309.99,329.99,high,low,7,namesilo,,,25/08/2026 02:49
 39b79cc7-1689-41de-ac62-ed8c95e3fc8f,estimates.game,available,309.99,429.99,medium,low,9,namesilo,,,20/09/2026 04:10
+b3297450-0984-4d2d-84de-30cf42c243b2,sauer.game,available,279.65,341.75,high,low,5,spaceship,,,29/09/2026 22:40
 2986f4a0-7f5a-4abc-82ce-b002e66fcd1f,herod.game,available,309.99,429.99,medium,low,5,namesilo,,,28/09/2026 14:26
 791dfd49-65ce-4e13-801e-6872da1e1b22,umpteenth.game,available,309.99,429.99,medium,low,9,namesilo,,,11/09/2026 23:09
+7549c958-df85-4ffa-92e5-b5e8ac619656,belinda.game,available,279.65,341.75,medium,low,7,spaceship,,,29/09/2026 09:21
 2e7b5c07-2ef1-4384-bee7-e374c9a2ad95,perhaps.game,available,279.65,341.75,high,low,7,spaceship,,,28/09/2026 16:16
 c7f2268f-0174-4610-88a6-6ac3dce6e77e,stations.game,available,309.99,329.99,high,low,8,namesilo,,,
 9de59f31-75ef-4bb1-9383-932dd756a7cc,statuesque.game,available,309.99,329.99,medium,low,10,namesilo,,,22/08/2026 14:32
 d8fdba3a-546e-4ac1-b01f-73da532bc984,desk.game,available,309.99,429.99,high,low,4,namesilo,,,08/09/2026 08:30
 a29a91b8-63b9-4b73-9fc5-2a95f5ebbfe5,conflicted.game,available,309.99,329.99,medium,low,10,namesilo,,,
+0110274b-9880-4323-859f-9c95391450a7,proposals.game,available,300.2,300.2,medium,low,9,cloudflare,,,30/09/2026 00:25
 e16bdc51-98f8-4fa9-989c-a30e416cfdbb,onionskin.game,available,309.99,329.99,medium,low,9,namesilo,,,18/08/2026 08:17
 09e60566-cc67-498c-a481-7dba470b326b,drab.game,available,309.99,329.99,medium,low,4,namesilo,,,14/08/2026 11:43
 03d003e2-e3a1-485f-8ec8-98d0a0f5309c,exempt.game,available,309.99,329.99,high,low,6,namesilo,,,17/08/2026 17:02
@@ -374,13 +408,14 @@ db6abcf1-100e-4d11-bf77-e10c4bbe0c1c,forested.game,available,309.99,329.99,high,
 89d0227c-d525-4363-9227-656cd2eb93bd,responds.game,available,309.99,429.99,medium,low,8,namesilo,,,20/09/2026 08:24
 d5023319-0e94-4bb4-9f4d-ce8867efa741,enthusiastic.game,available,309.99,429.99,high,low,12,namesilo,,,28/09/2026 11:14
 a5f031cc-74c5-4627-9852-9f84d92b763a,cheeky.game,available,309.99,329.99,high,low,6,namesilo,,,11/08/2026 02:26
-a9dce79f-aaf6-45ed-8a89-357e0dc7d4d5,wished.game,available,310.98,547.98,medium,low,6,namecheap,,,17/09/2026 18:39
+9491e02d-67c1-4b5c-b002-454674a35b53,aida.game,available,310.98,547.98,high,low,4,namecheap,,,29/09/2026 22:17
+a9dce79f-aaf6-45ed-8a89-357e0dc7d4d5,wished.game,available,310.98,547.98,high,low,6,namecheap,,,17/09/2026 18:39
 f63e2372-f7eb-4fff-8160-29f4c96f6029,thousand.game,available,309.99,429.99,high,low,8,namesilo,,,21/09/2026 11:02
 fc92c02b-d394-4296-aac7-feb4f9aeeb96,cyclic.game,available,349.99,616.99,high,low,6,name.com,,,13/08/2026 13:31
 6001e2f8-4941-462c-8d6b-6701e5765ff9,comforter.game,available,349.99,619.99,medium,low,9,name.com,,,18/09/2026 10:03
 6d6f8ceb-d2e4-43fe-9236-cba016fb2c96,boyish.game,available,309.99,329.99,high,low,6,namesilo,,,11/08/2026 00:04
 4258532a-44bf-45b5-a410-b548835ac577,sophisticated.game,available,309.99,329.99,high,low,13,namesilo,,,
-10996fec-e519-41cb-8f35-08570a1dca5d,panther.game,available,309.99,329.99,high,low,7,namesilo,,,
+10996fec-e519-41cb-8f35-08570a1dca5d,panther.game,available,300.2,300.2,high,low,7,cloudflare,,,29/09/2026 11:45
 62293daf-a97b-4140-8606-e5e89972e521,jets.game,premium,1430,1430,high,low,4,dynadot,,,28/09/2026 12:04
 988cf465-db86-44e6-b405-34c8657716fc,warrington.game,available,279.65,341.75,medium,low,10,spaceship,,,28/09/2026 07:51
 8fdb9b31-70bf-4b95-89c6-c29f6313083a,agility.game,available,310.98,547.98,high,low,7,namecheap,,,17/09/2026 17:49
@@ -389,10 +424,12 @@ fc92c02b-d394-4296-aac7-feb4f9aeeb96,cyclic.game,available,349.99,616.99,high,lo
 b23b92f8-9496-4051-9810-50483c82ab78,prostatic.game,available,309.99,429.99,medium,low,9,namesilo,,,09/09/2026 03:53
 3079b311-cda3-45fc-9ab3-7c51b7d893f2,henceforth.game,available,309.99,429.99,medium,low,10,namesilo,,,15/09/2026 00:15
 f54d9775-1e02-433f-a9bb-6c02f3b644a5,rarified.game,available,309.99,329.99,medium,low,8,namesilo,,,17/08/2026 15:46
+31be3574-6b6b-4ae9-b8e2-673c2009d6f6,amboy.game,available,300.2,300.2,medium,low,5,cloudflare,,,29/09/2026 21:41
 cbb508b2-e423-4b8d-8bf2-8f24f2f47978,scores.game,available,309.99,429.99,high,low,6,namesilo,,,14/09/2026 23:23
 b416d89c-45bf-40b7-a5ff-e0dd99513cf7,assignor.game,available,309.99,429.99,medium,low,8,namesilo,,,20/09/2026 16:27
 b4e295b0-75d2-4cf7-b39d-4ecca97495c4,exercises.game,available,300.2,300.2,medium,low,9,cloudflare,,,28/09/2026 17:18
 d15c394d-9bd8-414b-b830-cfe0c089b211,mighty.game,available,309.99,329.99,high,low,6,namesilo,,,24/08/2026 22:43
+18da2491-0fba-465e-bdd7-4c4e977d23f8,paley.game,available,279.65,341.75,medium,low,5,spaceship,,,29/09/2026 15:50
 f4f2a837-7c53-4ebc-8805-800b51678abd,statuary.game,available,310.98,547.98,medium,low,8,namecheap,,,10/09/2026 19:16
 bf6289bb-43ca-432e-975f-b2d4a865046e,sate.game,available,309.99,429.99,medium,low,4,namesilo,,,09/09/2026 14:30
 eec9fa4e-11aa-4e8e-89ea-1d1ae326a38e,ritually.game,available,309.99,429.99,medium,low,8,namesilo,,,15/09/2026 23:55
@@ -401,27 +438,28 @@ eec9fa4e-11aa-4e8e-89ea-1d1ae326a38e,ritually.game,available,309.99,429.99,mediu
 beadc669-d3d6-4156-8d1a-fc1db5816752,citrin.game,available,310.98,547.98,high,low,6,namecheap,,,23/09/2026 18:00
 adcf9294-1134-414a-9a7b-81043458ef12,dreary.game,available,309.99,329.99,medium,low,6,namesilo,,,14/08/2026 11:47
 48cb7b4e-5aa3-466c-8266-a2543964fb94,structured.game,available,309.99,429.99,high,low,10,namesilo,,,10/09/2026 22:50
-a438b70f-1dd0-4b1e-8676-7b7737680e08,humans.game,available,309.99,329.99,high,medium,6,namesilo,,,
+a438b70f-1dd0-4b1e-8676-7b7737680e08,humans.game,available,279.65,341.75,high,medium,6,spaceship,,,29/09/2026 23:22
 4933daad-7603-4be5-b2c9-128f2897ebb2,bigram.game,available,309.99,429.99,medium,low,6,namesilo,,,23/09/2026 15:24
 ef6ce42f-c670-4da7-b6c2-71054946a979,relations.game,available,309.99,329.99,high,low,9,namesilo,,,
 7551d2aa-35cc-4f3b-930e-f2e82b7b5387,stolid.game,available,309.99,329.99,medium,low,6,namesilo,,,21/08/2026 21:51
+53fd18be-bd21-4a00-9213-d86819059523,chapters.game,available,309.99,429.99,medium,low,8,namesilo,,,29/09/2026 11:10
 bde3e78e-7dc6-41bd-aae2-97fa987d2684,stunned.game,available,309.99,429.99,high,low,7,namesilo,,,22/09/2026 03:44
 78ba99d3-e67c-4f25-a641-4a755cb16242,flickering.game,available,309.99,329.99,high,low,10,namesilo,,,
-53812866-0097-42ed-910b-91f48db96d1e,sonorous.game,available,309.99,429.99,medium,low,8,namesilo,,,10/09/2026 14:13
+53812866-0097-42ed-910b-91f48db96d1e,sonorous.game,available,309.99,429.99,high,low,8,namesilo,,,10/09/2026 14:13
 51082d61-0019-4a76-bcda-23fe744eecc7,ablated.game,available,309.99,329.99,medium,low,7,namesilo,,,
 216a0d1e-9077-4f91-883d-c32462454b94,aortic.game,available,309.99,329.99,medium,low,6,namesilo,,,05/08/2026 21:54
 a56ba7d3-e6a0-4da8-a080-e905ebf2c07a,nadia.game,available,309.99,429.99,medium,low,5,namesilo,,,28/09/2026 22:03
 6226498b-9f6e-4d41-9f16-fdd61794990d,bolshie.game,available,310.98,498,medium,low,7,namecheap,,,10/08/2026 17:55
-18e863c5-120b-46d3-b766-c6c2f962f0da,replacing.game,available,309.99,429.99,medium,low,9,namesilo,,,29/09/2026 02:02
+18e863c5-120b-46d3-b766-c6c2f962f0da,replacing.game,available,309.99,429.99,high,low,9,namesilo,,,29/09/2026 02:02
 9f4fe043-a689-4f41-81c2-4e41046aa3cd,virtual.game,premium,1729,1729,high,low,7,namesilo,,,28/09/2026 04:49
 4703b6fe-0965-4361-92d9-a71956f15c17,extraneous.game,available,310.98,498,medium,low,10,namecheap,,,17/08/2026 19:20
 c1151258-4a28-412e-9ad1-586ef74f3bdc,ago.game,available,309.99,429.99,high,low,3,namesilo,,,21/09/2026 23:15
-1139cb94-7cf3-46d6-8872-5b4d6d351c0f,recondite.game,available,309.99,329.99,medium,low,9,namesilo,,,
+1139cb94-7cf3-46d6-8872-5b4d6d351c0f,recondite.game,available,309.99,329.99,high,low,9,namesilo,,,
 ab1dd3b6-d3c7-4c35-9054-ca06f86c33db,tues.game,available,309.99,329.99,high,low,4,namesilo,,,
 a0b96623-3e6a-44c3-b75b-3cfdaa4460ff,idler.game,available,309.99,329.99,medium,low,5,namesilo,,,14/08/2026 14:10
 646a6152-2aba-4a8f-b7db-33c5136ac943,shrink.game,available,699.99,699.99,high,low,6,godaddy,,,28/09/2026 01:56
 37155ebf-dde2-43fb-b918-3fe16edabadd,definitely.game,available,309.47,340.37,high,low,10,porkbun,,,28/09/2026 13:38
-388b04f9-817c-4b4d-9af4-2ae656ad2ea5,alcoholism.game,available,309.99,429.99,medium,low,10,namesilo,,,18/09/2026 04:06
+388b04f9-817c-4b4d-9af4-2ae656ad2ea5,alcoholism.game,available,309.99,429.99,high,low,10,namesilo,,,18/09/2026 04:06
 099ac21a-fb0b-490b-932b-1906dc72f7e2,aaron.game,premium,1729,1729,high,medium,5,namesilo,,,28/09/2026 16:56
 a619cbee-60f0-46b8-bce6-a4be5e1f75dd,alkaloidal.game,available,309.99,329.99,medium,low,10,namesilo,,,
 260ebbbb-9c16-4e88-b5c3-72bb80c148fd,gail.game,available,309.99,329.99,high,low,4,namesilo,,,
@@ -432,9 +470,9 @@ a619cbee-60f0-46b8-bce6-a4be5e1f75dd,alkaloidal.game,available,309.99,329.99,med
 a1c0fbb6-0173-4dfc-902d-cd6d7038fcfd,casteless.game,available,310.98,498,medium,low,9,namecheap,,,11/08/2026 20:25
 24f90379-9752-48bc-a064-232de0338022,courts.game,available,310.98,547.98,high,low,6,namecheap,,,28/09/2026 03:42
 5f21e800-e00c-4b49-979b-fb570d804b45,inventor.game,available,309.99,429.99,high,low,8,namesilo,,,20/09/2026 11:36
-c1c8a228-1e62-484e-8e3d-c90e8b45afcf,philip.game,available,309.99,329.99,high,low,6,namesilo,,,
+c1c8a228-1e62-484e-8e3d-c90e8b45afcf,philip.game,available,309.99,429.99,high,low,6,namesilo,,,29/09/2026 17:06
 245124d2-be7e-4715-bd30-5ed5cfd26e06,struggling.game,premium,1690,1690,medium,low,10,namecheap,,,10/09/2026 22:52
-d708356f-5a85-4a98-9b30-83a0eef0d963,department.game,available,309.99,329.99,high,low,10,namesilo,,,
+d708356f-5a85-4a98-9b30-83a0eef0d963,department.game,available,279.65,341.75,high,low,10,spaceship,,,29/09/2026 14:02
 9c73dee5-1862-493c-a46a-feb51f1d80de,funeral.game,available,309.99,429.99,high,low,7,namesilo,,,25/09/2026 22:54
 836a5d63-95a1-42de-923e-c9688c8d9107,separated.game,available,309.99,429.99,medium,low,9,namesilo,,,19/09/2026 04:08
 ae11d59a-27fe-45a2-b8e5-3b5bcf30e875,passim.game,available,310.98,547.98,medium,low,6,namecheap,,,15/09/2026 19:07
@@ -442,12 +480,15 @@ ae11d59a-27fe-45a2-b8e5-3b5bcf30e875,passim.game,available,310.98,547.98,medium,
 3dcfce0a-db8a-4550-98c9-4588f0378378,crass.game,available,309.99,329.99,medium,low,5,namesilo,,,13/08/2026 05:23
 d9c13e0c-78ca-4d99-8d4f-c4176b591bf5,caption.game,available,309.99,429.99,high,low,7,namesilo,,,24/09/2026 12:41
 49359524-5fb1-4363-9751-f8908bb0782a,airplanes.game,available,279.65,341.75,medium,low,9,spaceship,,,28/09/2026 22:55
+67af4ae0-3454-426e-b211-31164f149ea2,hoff.game,available,279.65,341.75,medium,low,4,spaceship,,,29/09/2026 21:37
 8043e9f5-7169-40ca-9d12-47c1d9f3d0f2,discounter.game,available,309.99,429.99,high,low,10,namesilo,,,28/09/2026 02:50
 36890103-6e59-4454-b06d-f890ba842bbc,techy.game,available,309.99,329.99,medium,low,5,namesilo,,,22/08/2026 10:32
 3db2abc1-a64f-4f89-9035-9aee7e40430e,miles.game,premium,1690,1690,high,low,5,namecheap,,,25/09/2026 17:17
 2cdc248a-5402-45d1-9e00-8284f372e915,proud.game,available,309.99,429.99,high,low,5,namesilo,,,27/09/2026 07:46
-94fccd6d-7822-4f33-b8ff-6f0689d7b233,triennial.game,available,309.99,429.99,medium,low,9,namesilo,,,11/09/2026 19:31
+94fccd6d-7822-4f33-b8ff-6f0689d7b233,triennial.game,available,309.99,429.99,high,low,9,namesilo,,,11/09/2026 19:31
+5071734e-8621-4a9e-a014-399d1ea5a127,riots.game,available,300.2,300.2,low,low,5,cloudflare,,,29/09/2026 05:50
 46405b5c-711f-4d93-844d-95033b5575a2,homophonic.game,available,309.99,329.99,medium,low,10,namesilo,,,21/08/2026 13:06
+4cce54ac-6edd-45aa-ae24-d306a7e58012,organisation.game,available,310.98,547.98,high,low,12,namecheap,,,29/09/2026 04:49
 98e4f217-4067-4146-9377-73d7abce5a90,univalent.game,available,309.99,429.99,medium,low,9,namesilo,,,12/09/2026 14:00
 78326d75-df49-4e87-bd41-0c2ab2c8e429,balance.game,premium,1690,1690,high,low,7,namecheap,,,27/09/2026 12:05
 cb9965d5-2f09-48ad-aff3-4870a914e5d3,sidesaddle.game,available,309.99,429.99,medium,low,10,namesilo,,,16/09/2026 01:43
@@ -462,25 +503,32 @@ c16c5f88-568d-4c1c-a998-ad3354b591cf,ayatollah.game,available,309.99,429.99,high
 dd3beef9-2bc8-4e6f-905a-c722ac6e7472,vargas.game,available,309.99,429.99,high,low,6,namesilo,,,27/09/2026 04:13
 498d2954-f17d-4409-91d3-dfc9eff71419,focusing.game,available,310.98,547.98,high,low,8,namecheap,,,24/09/2026 13:33
 bc3cbe10-daac-456b-a60c-905c704b8ab2,tremendous.game,available,309.99,329.99,high,low,10,namesilo,,,17/08/2026 09:48
+9a5f0f64-a076-44de-9127-3777dee911d6,contestants.game,available,310.98,547.98,high,low,11,namecheap,,,29/09/2026 11:30
 826fa218-52e2-4af9-bf6d-ec12c6ac2926,cruelty.game,available,310.98,547.98,medium,low,7,namecheap,,,24/09/2026 19:49
 c7d0ba86-1cb5-4305-b4a7-1d8e8a4c5ff8,johnstone.game,available,279.65,341.75,high,low,9,spaceship,,,27/09/2026 23:26
+7b47bec2-331c-409f-b1ac-ed0bfcb5d51f,rabies.game,available,300.2,300.2,high,low,6,cloudflare,,,29/09/2026 19:34
+503052b1-eaeb-4548-8974-329112382c4d,reviewed.game,available,279.65,341.75,medium,low,8,spaceship,,,29/09/2026 05:52
 b659e2c4-e31f-41ff-a760-d5060d18e14a,altruism.game,available,279.65,341.75,high,low,8,spaceship,,,28/09/2026 20:45
 fa217996-86c6-4fb5-8a42-090a31b587b9,heracles.game,available,309.99,429.99,high,low,8,namesilo,,,18/09/2026 04:03
+2b8c3d13-f249-4b93-9e7c-39709d1d3c46,naturalism.game,available,279.65,341.75,high,low,10,spaceship,,,29/09/2026 13:32
 1f0aa31e-f41e-492c-9081-1e20677c2625,repulse.game,available,309.99,429.99,high,medium,7,namesilo,,,10/09/2026 12:48
 305a912f-c434-4a4c-8044-9a6a0ca08311,front.game,available,309.99,429.99,high,low,5,namesilo,,,24/09/2026 21:48
 080bcf0e-52e3-46af-a8a5-8392095e7085,macaulay.game,available,279.65,341.75,medium,low,8,spaceship,,,28/09/2026 14:12
-a02bbf99-66c0-4fd0-8b54-6830d5d8e407,fruitfully.game,available,310.98,547.98,medium,low,10,namecheap,,,14/09/2026 20:27
-2241b53f-2224-4e02-868f-0d7e1ef97e73,visualised.game,available,309.99,329.99,medium,low,10,namesilo,,,17/08/2026 10:03
+626c10ca-9d96-4db3-828e-a3f5b0e22de5,genie.game,available,279.65,341.75,high,high,5,spaceship,,,30/09/2026 01:20
+a02bbf99-66c0-4fd0-8b54-6830d5d8e407,fruitfully.game,available,310.98,547.98,high,low,10,namecheap,,,14/09/2026 20:27
+2241b53f-2224-4e02-868f-0d7e1ef97e73,visualised.game,available,309.99,329.99,high,low,10,namesilo,,,17/08/2026 10:03
 911e16c6-c6bf-4162-a22b-0f396a47bb52,baseless.game,available,309.99,329.99,medium,low,8,namesilo,,,08/08/2026 21:44
 11d86d0c-4e14-4265-a356-2caad4c11cb7,winded.game,available,309.99,429.99,high,medium,6,namesilo,,,09/09/2026 06:29
 488b891c-27c4-4c08-b3f4-2360ee690098,cynicism.game,available,310.98,547.98,medium,low,8,namecheap,,,24/09/2026 20:49
-bf173a39-42d4-4461-bc8b-286357ef0f44,beefcake.game,available,309.99,429.99,medium,low,8,namesilo,,,23/09/2026 01:06
+bf173a39-42d4-4461-bc8b-286357ef0f44,beefcake.game,available,309.99,429.99,high,low,8,namesilo,,,23/09/2026 01:06
 8c49c868-5c5c-47bc-96f7-777a03630ee9,griffiths.game,available,310.98,547.98,medium,low,9,namecheap,,,26/09/2026 03:40
 6efa5464-842e-4fa3-b10d-cd837d68105f,boyle.game,available,349.99,619.99,high,low,5,name.com,,,25/09/2026 02:02
 e0035cf1-cb29-43bd-a2e2-78878ae86621,noiseless.game,available,310.98,547.98,medium,low,9,namecheap,,,03/09/2026 18:13
 e0fbfbd9-6500-4eeb-892e-cec5232fe9c2,provided.game,available,309.99,429.99,medium,low,8,namesilo,,,16/09/2026 09:17
 edcec66d-1f0a-4452-9d13-97e8ce2ecc39,revenge.game,available,309.99,429.99,high,low,7,namesilo,,,25/09/2026 10:18
 403e098a-9216-4257-a961-c187a0a00b88,stuck.game,available,310.98,547.98,medium,low,5,namecheap,,,28/09/2026 01:42
+92149615-385d-4781-9d6f-5954d1320eca,hauling.game,available,309.99,429.99,high,low,7,namesilo,,,30/09/2026 01:50
+75f11736-a7db-46aa-8de7-35a8c5ab029e,curriculum.game,available,309.99,353.32,high,low,10,dynadot,,,29/09/2026 06:26
 636fe58f-6985-4d19-96b1-d23ccb390119,gripe.game,available,309.99,429.99,high,low,5,namesilo,,,23/09/2026 00:19
 597aad42-ca1c-4484-93da-0f604d37ab6f,aries.game,available,310.98,547.98,high,low,5,namecheap,,,20/09/2026 05:23
 8bd5b2e3-082c-4d48-be7d-012f88b284f2,billed.game,available,310.98,498,high,low,6,namecheap,,,09/08/2026 21:23
@@ -491,14 +539,16 @@ a8a77be7-4853-4b7c-aae1-a2587a22800b,plundered.game,available,309.99,329.99,medi
 856b23d0-cbe6-4d8f-b6ac-12e84c22dd59,klamath.game,available,300.2,300.2,high,low,7,cloudflare,,,28/09/2026 06:07
 34c5f4dc-1125-412b-b1d7-e93fd4660f30,azure.game,available,309.99,329.99,high,high,5,namesilo,,,08/08/2026 03:08
 07e0a9d7-b7f9-4489-9484-904ab8f8cd7d,remainder.game,available,309.99,429.99,high,low,9,namesilo,,,09/09/2026 15:03
-9b10dce7-9a25-4387-ac8f-6bc2082f8b00,hypocrite.game,available,310.98,547.98,medium,low,9,namecheap,,,08/09/2026 19:08
+32c15c9b-1ba7-4ad1-9a44-85d29ed05a2c,berks.game,available,309.99,429.99,medium,low,5,namesilo,,,29/09/2026 15:22
+9b10dce7-9a25-4387-ac8f-6bc2082f8b00,hypocrite.game,available,310.98,547.98,high,low,9,namecheap,,,08/09/2026 19:08
 064843df-c1c2-41d7-aa1a-5ed6ac46623d,apium.game,available,309.99,429.99,medium,low,5,namesilo,,,19/09/2026 17:32
 96cfc52c-3a33-4720-9ace-f1a8650cb237,applier.game,available,310.98,547.98,medium,low,7,namecheap,,,19/09/2026 21:54
 f39f25ac-38cd-4e31-a769-4de70313785d,quincy.game,available,309.99,429.99,high,low,6,namesilo,,,28/09/2026 10:11
 31ef0be9-a7db-46bb-ae65-827320fbdaa7,charabanc.game,available,309.99,429.99,medium,low,9,namesilo,,,21/09/2026 05:58
-719daf86-ac72-4cb2-9890-1d60faee1115,grating.game,available,310.98,498,medium,low,7,namecheap,,,20/08/2026 18:26
+719daf86-ac72-4cb2-9890-1d60faee1115,grating.game,available,310.98,498,high,low,7,namecheap,,,20/08/2026 18:26
 e0a000ca-935d-48b1-9579-5d6d9b576f02,beagle.game,available,310.98,547.98,high,low,6,namecheap,,,22/09/2026 19:37
-cfa5c8e1-2e47-4e89-8afd-ad09df9f8b93,buyer.game,available,309.99,329.99,high,low,5,namesilo,,,
+cfa5c8e1-2e47-4e89-8afd-ad09df9f8b93,buyer.game,available,309.99,353.32,high,low,5,dynadot,,,29/09/2026 05:39
+11d13fd2-0717-40b0-81b4-2f36c2c6501e,whyte.game,available,309.99,353.32,high,low,5,dynadot,,,29/09/2026 10:00
 65bc8c16-10e6-40b0-91d4-0bdaf9ece8af,abjuration.game,available,309.99,429.99,medium,low,10,namesilo,,,16/09/2026 15:59
 0d2f21cb-e26f-4fb7-9e87-f7c3017cc2d7,tux.game,available,309.99,429.99,high,low,3,namesilo,,,24/09/2026 01:52
 4825d2a0-a7c2-4c04-9056-c70442a3645f,abrupt.game,available,309.99,329.99,high,low,6,namesilo,,,
@@ -506,7 +556,7 @@ cfa5c8e1-2e47-4e89-8afd-ad09df9f8b93,buyer.game,available,309.99,329.99,high,low
 26983606-2179-4039-bd7b-fa9a6842982b,ratio.game,available,310.98,547.98,high,low,5,namecheap,,,28/09/2026 15:13
 f294d91f-2183-4e2d-b60e-df8439e0fa70,penetrate.game,available,309.99,429.99,high,low,9,namesilo,,,28/09/2026 09:30
 aa4d0793-0ab6-4f12-ac65-cec2628ab850,pratt.game,available,309.99,429.99,high,low,5,namesilo,,,25/09/2026 12:12
-d6114fec-d940-4b1d-8299-ab3389a9df6a,dna.game,available,309.99,329.99,high,medium,3,namesilo,,,
+d6114fec-d940-4b1d-8299-ab3389a9df6a,dna.game,available,309.99,429.99,high,medium,3,namesilo,,,29/09/2026 14:01
 585aa883-51b4-47ea-b102-8d376c723854,apoptosis.game,available,310.98,547.98,medium,low,9,namecheap,,,19/09/2026 19:14
 3654de46-f205-4050-ad1a-1b882f323313,skew.game,available,309.99,429.99,high,low,4,namesilo,,,10/09/2026 09:26
 40fffa54-72e7-46bf-941b-166aac6ffa62,backed.game,available,309.99,329.99,high,low,6,namesilo,,,08/08/2026 05:33
@@ -514,7 +564,7 @@ afdf17a0-02bc-4523-9ee6-5aa0a4c7cf2e,markoff.game,available,310.98,547.98,medium
 118cb2da-6871-4bd3-8c5a-b01dd583d7ce,hempen.game,available,309.99,329.99,medium,low,6,namesilo,,,18/08/2026 03:20
 042828f4-4230-4103-b953-2d2f99dd4c71,hidebound.game,available,309.99,329.99,medium,low,9,namesilo,,,21/08/2026 08:11
 eebcc803-c7d4-4946-9b10-cbed3f021642,openly.game,premium,1690,1690,high,low,6,namecheap,,,15/09/2026 17:59
-8bfcf9b6-8d30-4354-a00b-55d2f1eb09ce,channel.game,premium,1625,,high,low,7,name.com,,,
+8bfcf9b6-8d30-4354-a00b-55d2f1eb09ce,channel.game,premium,1729,1729,high,low,7,namesilo,,,29/09/2026 08:01
 f16da0af-6bf3-4690-b8a8-035b4b8262eb,baptisia.game,available,309.99,429.99,medium,low,8,namesilo,,,22/09/2026 03:24
 2c63fec5-4502-419e-847a-0df10b379d10,cagey.game,available,309.99,329.99,medium,low,5,namesilo,,,11/08/2026 13:19
 54e7b994-bdf6-40bd-965e-21ca505d6337,etiolate.game,available,309.99,329.99,medium,low,8,namesilo,,,17/08/2026 13:53
@@ -522,39 +572,45 @@ d39a803a-e028-4437-914b-84a2c21a1cb3,gambian.game,available,309.99,329.99,medium
 842bffa7-0a97-4b8e-b569-1ee866b3baa6,steinberg.game,available,309.99,429.99,medium,low,9,namesilo,,,28/09/2026 10:52
 5663422b-04b6-48dd-97e9-4b8d5c37e77f,adjustment.game,available,309.99,329.99,high,low,10,namesilo,,,18/08/2026 05:52
 6359764c-7c39-499a-a2a1-5bdb6f866c21,communist.game,available,309.99,429.99,high,low,9,namesilo,,,23/09/2026 16:14
-f9fc680d-96a5-4583-be0d-11c2a8a55ed2,ivy.game,available,309.99,329.99,high,low,3,namesilo,,,
-457d6303-fe93-47a4-a1d0-ffff543526be,duchess.game,available,309.99,329.99,high,low,7,namesilo,,,
+f9fc680d-96a5-4583-be0d-11c2a8a55ed2,ivy.game,available,309.99,353.32,high,low,3,dynadot,,,29/09/2026 10:26
+457d6303-fe93-47a4-a1d0-ffff543526be,duchess.game,available,309.99,429.99,high,low,7,namesilo,,,29/09/2026 16:59
 9a678a2b-42ed-4770-a491-2faf7c0b3848,controversial.game,available,309.99,329.99,medium,low,13,namesilo,,,
 6873d42d-f329-4c7c-a864-2af3bbccd46a,females.game,available,310.98,547.98,medium,low,7,namecheap,,,18/09/2026 19:27
-27888a17-8e1b-447b-a399-185f027544ba,epidermal.game,available,349.99,616.99,medium,low,9,name.com,,,13/08/2026 13:06
+27888a17-8e1b-447b-a399-185f027544ba,epidermal.game,available,349.99,616.99,high,low,9,name.com,,,13/08/2026 13:06
 c383f1bc-09e8-4ea8-8bf7-7c4a3fed7d5c,apropos.game,available,309.99,329.99,high,low,7,namesilo,,,06/08/2026 10:00
 1160e922-f61c-44df-b61f-043a41f468c5,kidd.game,available,279.65,341.75,high,low,4,spaceship,,,28/09/2026 01:23
-0af5cc2b-abb5-47c6-909d-a5cd7308255e,corresponding.game,available,309.99,329.99,medium,low,13,namesilo,,,
+0af5cc2b-abb5-47c6-909d-a5cd7308255e,corresponding.game,available,309.99,329.99,high,low,13,namesilo,,,
 e43954cb-5e66-4887-8529-57d151853c85,qat.game,available,309.99,429.99,medium,low,3,namesilo,,,17/09/2026 15:24
 82fbee6e-945d-4056-b42a-2cbccef5c614,profligate.game,available,349.99,616.99,medium,low,10,name.com,,,13/08/2026 20:24
-108797e2-f427-407b-8e2a-809d5f632134,opens.game,available,310.98,547.98,medium,low,5,namecheap,,,18/09/2026 23:02
+108797e2-f427-407b-8e2a-809d5f632134,opens.game,available,310.98,547.98,high,low,5,namecheap,,,18/09/2026 23:02
 8e116530-6601-4d26-8685-2f6a055d6ae6,destitute.game,available,309.99,329.99,medium,low,9,namesilo,,,14/08/2026 04:32
 a568d5ea-c10f-4402-930d-63eb5274e956,specimen.game,available,279.65,341.75,high,low,8,spaceship,,,28/09/2026 03:06
+6930155f-b85d-4199-8d06-bdd911c8e846,vega.game,available,309.99,429.99,high,medium,4,namesilo,,,29/09/2026 07:30
 56453844-7282-4106-a109-b7243cdbfe77,mere.game,available,310.98,547.98,high,low,4,namecheap,,,25/09/2026 19:33
 4a8d7013-faaf-4d7b-9c71-bf4062a1490c,outfitted.game,available,310.98,547.98,high,low,9,namecheap,,,04/09/2026 19:24
 03b0cb47-2cf7-4017-9ae4-8b57f939d53d,prophet.game,available,279.65,341.75,high,low,7,spaceship,,,28/09/2026 02:52
+cc899964-d394-4531-8def-2117e16f521d,darfur.game,available,279.65,341.75,medium,low,6,spaceship,,,30/09/2026 01:45
 0f31fc78-1248-45eb-9f6f-65c033da4b49,scent.game,available,309.99,429.99,high,low,5,namesilo,,,20/09/2026 08:28
 41d43416-aea3-4fe1-b62e-035ce7bd10a3,carried.game,available,309.99,429.99,medium,low,7,namesilo,,,25/09/2026 17:00
 d4b75f0f-28fe-468f-87b2-12072494aeb8,lxiii.game,available,309.99,329.99,medium,low,5,namesilo,,,
 b1347637-d719-4d2b-a85a-ec861575d9e5,peeved.game,available,309.99,329.99,medium,low,6,namesilo,,,
 95abe30d-73d2-48f6-8a71-73ccacdeedd4,capsulate.game,available,310.98,498,medium,low,9,namecheap,,,11/08/2026 18:10
 62a9967f-c054-44c2-b759-cd131496750b,arsenal.game,premium,1729,1729,high,low,7,namesilo,,,20/09/2026 09:36
+8aa4a5c9-b2de-4b31-8f6e-ebd0646f6173,imitate.game,available,279.65,341.75,high,low,7,spaceship,,,29/09/2026 14:14
 626cce8c-cf62-4284-a66c-47f76653bf66,anchor.game,available,309.99,429.99,high,medium,6,namesilo,,,19/09/2026 03:39
 6399fe51-c4dd-470f-a7b0-92c7fe7028bc,tempered.game,available,309.99,429.99,high,low,8,namesilo,,,11/09/2026 10:50
-248e751d-7ee1-4ef7-90b1-40463dab1a21,splendidly.game,available,309.99,429.99,medium,low,10,namesilo,,,14/09/2026 16:44
+248e751d-7ee1-4ef7-90b1-40463dab1a21,splendidly.game,available,309.99,429.99,high,low,10,namesilo,,,14/09/2026 16:44
 b487fa23-064c-4038-83fc-b6be885b33ab,milne.game,available,309.99,429.99,medium,low,5,namesilo,,,16/09/2026 12:53
 4d64adc9-4c22-411f-ae23-f27e7c241472,acl.game,available,309.99,429.99,high,low,3,namesilo,,,29/09/2026 03:18
 3b25a50e-2b95-4193-84fd-c5b762e369a5,rings.game,available,309.99,429.99,high,low,5,namesilo,,,25/09/2026 10:24
 c6a32fcf-3361-45e7-9285-ef460a31e6a2,clues.game,available,309.99,429.99,medium,low,5,namesilo,,,28/09/2026 05:05
 0b7e07e5-f42d-4d99-9b93-f8ae8a336f31,acarpous.game,available,309.99,329.99,medium,low,8,namesilo,,,
+9d2bcf56-a5cc-4196-8611-3ee1e9fb45ac,dio.game,available,309.99,353.32,high,low,3,dynadot,,,29/09/2026 09:47
 4adf489d-bb64-4b94-b505-b4a5899c7500,fresh.game,premium,1690,1690,high,medium,5,namecheap,,,23/09/2026 01:54
+0925ca98-453c-49cb-b76c-8a06594cc85e,rbc.game,premium,1345.7,1345.7,high,medium,3,spaceship,,,30/09/2026 01:33
+4e1358dc-9936-4a10-b9c4-dc14ac7f3f03,tits.game,available,279.65,341.75,high,low,4,spaceship,,,29/09/2026 21:14
 673a941f-2363-4a16-b407-76735270dd13,spastic.game,available,309.99,329.99,medium,low,7,namesilo,,,13/08/2026 00:06
-2340dee6-71af-4159-9068-8c0184fd4f3c,shortfall.game,available,309.99,329.99,medium,low,9,namesilo,,,
+2340dee6-71af-4159-9068-8c0184fd4f3c,shortfall.game,available,309.47,340.37,high,low,9,porkbun,,,29/09/2026 13:34
 a2122687-84f8-4d6a-aeb8-1975409ed5da,standards.game,available,309.99,429.99,medium,low,9,namesilo,,,27/09/2026 22:53
 a4d3b10e-3755-49eb-b32c-c16216489c34,supine.game,available,309.99,429.99,medium,low,6,namesilo,,,09/09/2026 15:27
 979227bc-3884-4f10-8f56-8cb426f6cdbe,credal.game,available,309.99,329.99,medium,low,6,namesilo,,,13/08/2026 05:52
@@ -568,31 +624,33 @@ a2b7fdaf-124c-46d3-a251-17d56cdc8bb4,ablaut.game,available,309.99,429.99,medium,
 64405da7-5f11-4c3a-8f42-6638d8e023b8,sadness.game,available,309.99,329.99,high,low,7,namesilo,,,
 c32a7ec6-49e6-4620-9b10-2238c2ae8af1,ceaseless.game,available,309.99,329.99,high,low,9,namesilo,,,11/08/2026 23:01
 746d0c84-52b6-4728-994a-3d2b4d54ce16,dissimilar.game,available,309.99,329.99,medium,low,10,namesilo,,,14/08/2026 12:48
-719d24f1-24dd-4796-b7a1-827273104839,detecting.game,available,309.99,329.99,high,low,9,namesilo,,,
+719d24f1-24dd-4796-b7a1-827273104839,detecting.game,available,309.99,429.99,high,low,9,namesilo,,,29/09/2026 14:14
 3e062b25-2851-4e3b-8927-f86d7ddf98c7,refrain.game,available,279.65,341.75,high,low,7,spaceship,,,28/09/2026 20:16
 13e9d1da-98f6-460f-a30d-b60005cbc886,remembers.game,available,300.2,300.2,medium,low,9,cloudflare,,,28/09/2026 00:17
 47a1027c-12b5-48d9-aa94-0c406b63137e,replies.game,available,309.99,429.99,medium,low,7,namesilo,,,18/09/2026 09:15
 33fbd6de-2b8b-4d51-a031-ba4e65180d3b,cashable.game,available,310.98,498,medium,low,8,namecheap,,,11/08/2026 20:12
 5919df61-ca84-4bb0-8b60-e8d25b55e142,trustful.game,available,310.98,547.98,high,low,8,namecheap,,,11/09/2026 20:45
 3ab7dac6-c5e6-48e4-801b-1fd2d833b33a,gallic.game,available,309.99,329.99,medium,low,6,namesilo,,,18/08/2026 15:02
-7ad89dc3-0c0b-44b9-82fe-fc9efe3b8832,aborigine.game,available,309.99,329.99,medium,low,9,namesilo,,,
+7ad89dc3-0c0b-44b9-82fe-fc9efe3b8832,aborigine.game,available,309.99,329.99,high,low,9,namesilo,,,
 320df1e1-96f9-42ef-90fe-f8c00d656c7f,gunrunner.game,available,309.99,429.99,medium,low,9,namesilo,,,20/09/2026 07:45
 cb3aec8b-354c-4ec1-a0f5-ef758a9f56d4,ibanking.game,available,309.99,429.99,medium,low,9,namesilo,,,20/09/2026 00:37
 acaa0f75-96bc-44fe-b5ed-46b8300a0450,alas.game,available,309.99,429.99,high,low,4,namesilo,,,13/09/2026 18:37
 a6d4c799-45fd-475a-b152-adeae42d2ed1,flameproof.game,available,309.99,329.99,high,low,10,namesilo,,,18/08/2026 06:28
+d4a7b371-c5cd-4fce-8376-6e142c73ab55,caen.game,available,279.65,341.75,medium,low,4,spaceship,,,29/09/2026 09:32
 1a71082d-efe5-47ef-b2ba-dc9b46bde861,loveable.game,available,309.99,329.99,high,low,8,namesilo,,,24/08/2026 10:07
 9f9fc3ed-15f3-41cb-91b6-c27e561887b7,screwball.game,available,309.99,329.99,medium,low,9,namesilo,,,20/08/2026 22:30
 eab41e5a-ae45-4bb4-9065-de99acba5169,flippant.game,available,309.99,329.99,medium,low,8,namesilo,,,18/08/2026 08:32
 63f805d9-e328-4e8c-848e-c4c5751ae2ab,clients.game,available,279.65,341.75,high,low,7,spaceship,,,28/09/2026 03:50
 1c0ce50b-7577-41d2-a86f-8b8bbfdbac7b,yeoman.game,available,309.99,429.99,medium,low,6,namesilo,,,23/09/2026 01:07
-66b4087e-7635-4afd-951d-906938567eb7,westward.game,available,309.99,429.99,medium,low,8,namesilo,,,13/09/2026 10:55
+304fc0a4-fe91-4813-b8fa-00f1a8944873,halley.game,available,699.99,699.99,high,low,6,godaddy,,,30/09/2026 01:28
+66b4087e-7635-4afd-951d-906938567eb7,westward.game,available,309.99,429.99,high,low,8,namesilo,,,13/09/2026 10:55
 c4eda2c8-1c83-45f2-9826-5037f02d747d,fusible.game,available,310.98,498,medium,low,7,namecheap,,,18/08/2026 19:06
 2ea670ea-acc9-4517-8bc0-56abbdc08321,impeccably.game,available,309.99,429.99,medium,low,10,namesilo,,,15/09/2026 02:11
 973236c2-74de-4a54-b729-774ee214935e,catholics.game,available,310.98,547.98,medium,low,9,namecheap,,,19/09/2026 20:28
 109a128f-0300-42b6-baaa-0daf61426ea3,achondrite.game,available,310.98,547.98,medium,low,10,namecheap,,,17/09/2026 00:54
 85157ca1-406c-47b5-8167-dc14cb215c4f,caffeine.game,available,309.99,429.99,high,low,8,namesilo,,,24/09/2026 11:38
 7ef1eea1-6adc-4cd2-b923-0e817e483c55,baldhead.game,available,309.99,429.99,medium,low,8,namesilo,,,21/09/2026 21:41
-c9af1680-de3a-4f55-b461-666ce78d4a90,incentive.game,available,309.99,329.99,high,low,9,namesilo,,,
+c9af1680-de3a-4f55-b461-666ce78d4a90,incentive.game,available,309.99,353.32,high,low,9,dynadot,,,29/09/2026 23:44
 b610bc6f-1f76-4660-a16b-8c581395057d,tennessee.game,available,279.65,341.75,high,low,9,spaceship,,,28/09/2026 11:00
 58b6f8bc-5d19-49bd-9c3c-c0cb6dc8f889,debonaire.game,available,309.99,329.99,medium,low,9,namesilo,,,12/08/2026 05:59
 a7e25b1b-cc23-4f1a-b332-db19c2018be7,verbal.game,available,309.99,429.99,high,low,6,namesilo,,,28/09/2026 10:13
@@ -607,6 +665,7 @@ cc1a287d-e038-468b-baff-cdd5501fa19d,agincourt.game,available,310.98,547.98,high
 ef800934-66be-47a8-a46e-ff0b7af08cc3,ole.game,available,309.99,329.99,high,low,3,namesilo,,,
 c991ad11-435b-470a-b7fa-41611dc4999f,propensity.game,available,309.99,329.99,high,low,10,namesilo,,,22/08/2026 22:09
 cb11141a-8562-4767-8e51-6d8c7094810f,tearless.game,available,310.98,498,medium,low,8,namecheap,,,14/08/2026 20:31
+08b44672-039b-4f86-8114-bf500c49c2b5,wales.game,available,309.99,429.99,high,low,5,namesilo,,,29/09/2026 06:12
 d9f7c87a-3c35-4a3d-b490-e5876c75ca5b,peasants.game,available,309.99,429.99,low,low,8,namesilo,,,28/09/2026 23:24
 3b719820-798d-4777-9c3c-bd6608864c88,revive.game,available,309.99,429.99,high,low,6,namesilo,,,29/09/2026 02:45
 0d97fbd6-f8e5-4a33-a3d0-dd9981739569,touchdown.game,available,279.65,341.75,high,low,10,spaceship,,,28/09/2026 20:40
@@ -617,6 +676,7 @@ d9f7c87a-3c35-4a3d-b490-e5876c75ca5b,peasants.game,available,309.99,429.99,low,l
 06a33574-a235-48d1-9ada-cf6da3f0c2ed,armageddon.game,available,310.98,547.98,high,low,10,namecheap,,,20/09/2026 06:29
 0086bfbb-a5dc-4b74-89f0-c7baa26761e7,understand.game,available,309.99,329.99,high,low,10,namesilo,,,
 5b24400d-2620-4de0-ac1c-6ddbbbe27253,afrl.game,available,309.99,429.99,medium,low,4,namesilo,,,17/09/2026 15:27
+9742f373-cb47-44e7-ac0f-a8d3b52a5fae,fumes.game,available,309.99,429.99,high,low,5,namesilo,,,30/09/2026 01:34
 5113d083-7749-48a7-a315-541ee90a8e75,hangs.game,available,279.65,341.75,low,low,5,spaceship,,,28/09/2026 08:56
 34588897-cf7d-4fb3-89d6-d08e50f9df26,drycleaning.game,available,309.99,429.99,high,low,11,namesilo,,,21/09/2026 04:39
 d59d950b-c4fa-48b9-aaee-677eebd5a367,snidely.game,available,309.99,429.99,low,low,7,namesilo,,,16/09/2026 03:18
@@ -624,17 +684,17 @@ b396fc31-0971-4217-9be7-84c4ec0c4c8a,stale.game,available,310.98,547.98,medium,l
 bfedb719-b6ac-4a3f-a1dc-bac6de063f78,nourish.game,available,310.98,547.98,high,low,7,namecheap,,,18/09/2026 07:58
 826b241c-dd35-4b69-9440-63c93e8d3de4,monegasque.game,available,309.99,329.99,medium,low,10,namesilo,,,25/08/2026 04:03
 c70f2afa-da55-4a8e-a521-96ee869c499a,brighton.game,available,349.99,619.99,high,low,8,name.com,,,24/09/2026 10:19
-021bd169-e99a-4220-b1e4-ce4f3af46d2c,guest.game,available,309.99,329.99,high,low,5,namesilo,,,
-77bd34fc-8492-419b-8177-a12593f912d6,vitalizing.game,available,309.99,329.99,medium,low,10,namesilo,,,23/08/2026 01:35
+021bd169-e99a-4220-b1e4-ce4f3af46d2c,guest.game,available,309.99,429.99,high,low,5,namesilo,,,29/09/2026 17:42
+77bd34fc-8492-419b-8177-a12593f912d6,vitalizing.game,available,309.99,329.99,high,low,10,namesilo,,,23/08/2026 01:35
 928b74ca-4386-4ee9-a3a4-4d802da10065,foolproof.game,available,309.99,329.99,high,low,9,namesilo,,,18/08/2026 10:37
 e5be25d9-1339-479a-8b42-32420ae1f3b7,downmarket.game,available,310.98,498,medium,low,10,namecheap,,,14/08/2026 17:48
 638452ca-178c-489d-ac76-026bd79dcbf5,threat.game,available,349.99,,high,low,6,name.com,,,
 c3555b59-6d36-43b0-9d5c-3d6d91acda63,bevin.game,available,309.99,429.99,medium,low,5,namesilo,,,23/09/2026 12:05
 30719d8f-e9d5-4757-b4c5-8390633eeccb,breast.game,available,309.99,429.99,high,low,6,namesilo,,,24/09/2026 08:29
-34f5b0ac-d0bf-4d0e-bcae-0fbd51550007,importance.game,available,349.99,,high,low,10,name.com,,,
+34f5b0ac-d0bf-4d0e-bcae-0fbd51550007,importance.game,available,309.47,340.37,high,low,10,porkbun,,,29/09/2026 21:24
 a2631c90-446b-46a3-be55-42809666aff2,predatory.game,available,309.99,329.99,medium,low,9,namesilo,,,24/08/2026 15:43
 7e4e510f-10f5-4833-9460-8d722d97f2a2,acrophobia.game,available,310.98,547.98,medium,low,10,namecheap,,,17/09/2026 03:53
-a88bf4e8-5740-4106-a2ed-529191cdaaff,pathology.game,available,309.99,429.99,medium,low,9,namesilo,,,29/09/2026 01:49
+a88bf4e8-5740-4106-a2ed-529191cdaaff,pathology.game,available,309.99,429.99,high,low,9,namesilo,,,29/09/2026 01:49
 06b54721-b5ad-4c57-928d-7e5ac0dc3a2b,bore.game,available,309.99,429.99,high,low,4,namesilo,,,24/09/2026 12:50
 a328bed1-a3ef-4453-8f53-7bc31aee3fc1,retire.game,available,309.99,329.99,high,low,6,namesilo,,,
 7cecfe10-8a27-4b6c-abfe-6d3de23c1789,benedict.game,available,309.99,429.99,high,low,8,namesilo,,,23/09/2026 07:52
@@ -647,7 +707,7 @@ a4cf77b0-bec7-4b15-a0a1-51b89a2e6777,hammered.game,available,309.99,329.99,mediu
 daf8e696-56c8-407d-bf69-c87b13025e5e,indictment.game,available,309.99,429.99,medium,low,10,namesilo,,,23/09/2026 16:05
 58bb3960-41c2-48f8-9af2-7b4af499ac9f,flies.game,available,309.99,429.99,high,low,5,namesilo,,,25/09/2026 06:05
 90191bd8-8a68-44b7-9cf6-cde7f0703932,ashtray.game,available,309.99,429.99,high,low,7,namesilo,,,20/09/2026 14:02
-d9d256f8-299d-432e-91b4-a24c023d7f43,thoracic.game,available,309.99,429.99,medium,low,8,namesilo,,,08/09/2026 12:02
+d9d256f8-299d-432e-91b4-a24c023d7f43,thoracic.game,available,309.99,429.99,high,low,8,namesilo,,,08/09/2026 12:02
 31e87f1c-16ec-49ac-bdfa-7a654f91eda6,shaver.game,available,309.99,329.99,medium,low,6,namesilo,,,25/08/2026 00:03
 d0059e96-3a97-49de-9deb-20cf8f71321d,accusing.game,available,,,medium,low,8,,,,
 89ce2937-fa1f-44ee-a5d6-a61e63cd6a21,aniseed.game,available,310.98,547.98,high,low,7,namecheap,,,19/09/2026 09:27
@@ -659,18 +719,23 @@ b9855812-da9c-49be-b10a-8a17c97867b8,hexagonal.game,available,309.99,329.99,medi
 11303a2f-4a6e-4587-bb71-56ade9873b05,what.game,premium,1690,1690,high,low,4,namecheap,,,23/09/2026 08:08
 4a3efcf4-4f0e-47cd-8c59-5ba1bd035c6c,americans.game,available,309.99,429.99,medium,low,9,namesilo,,,08/09/2026 06:41
 6d9780b1-ea07-4d33-97d1-a4bf99da8486,barde.game,available,309.99,429.99,medium,low,5,namesilo,,,22/09/2026 05:12
+63748fce-c93e-452a-8ce3-7c689efb8998,sartre.game,available,309.99,429.99,high,low,6,namesilo,,,29/09/2026 07:22
 1b76a4a1-1d62-41c8-bae1-fd68eea80e21,apocryphal.game,available,309.99,329.99,high,low,10,namesilo,,,06/08/2026 01:11
-d5c5a2ae-03d0-4de3-8bc2-d5c5681dcfd1,divinely.game,available,309.99,429.99,medium,low,8,namesilo,,,14/09/2026 13:27
-59338ca8-8b94-4147-a855-282f03258ceb,jamal.game,available,309.99,429.99,medium,low,5,namesilo,,,29/09/2026 03:56
+d5c5a2ae-03d0-4de3-8bc2-d5c5681dcfd1,divinely.game,available,309.99,429.99,high,low,8,namesilo,,,14/09/2026 13:27
+deac63f0-2912-4c15-9c33-32b5829360c4,unrest.game,available,279.65,341.75,high,low,6,spaceship,,,30/09/2026 01:36
+59338ca8-8b94-4147-a855-282f03258ceb,jamal.game,available,309.99,429.99,high,low,5,namesilo,,,29/09/2026 03:56
 8a9c78ed-effc-403e-85b1-c0ae3c0f27f3,sql.game,available,309.99,429.99,high,low,3,namesilo,,,28/09/2026 04:28
-11eada47-a731-4762-bcf8-d879553306c3,grandchild.game,available,309.99,329.99,high,low,10,namesilo,,,
+11eada47-a731-4762-bcf8-d879553306c3,grandchild.game,available,279.65,341.75,high,low,10,spaceship,,,29/09/2026 21:23
 5c188744-d212-43a5-9025-a5b78574017d,eclectic.game,available,309.99,329.99,high,low,8,namesilo,,,14/08/2026 23:43
 f76a9710-34f6-4a69-9e65-4b5af13d87c2,aggregate.game,available,309.99,329.99,high,low,9,namesilo,,,
 9857d967-fee0-47e2-bb64-28184b668d67,implied.game,available,309.99,329.99,high,low,7,namesilo,,,
+2ebd1ef9-260b-4a68-8d32-05039bcc76a7,mentality.game,available,309.99,429.99,high,low,9,namesilo,,,29/09/2026 06:09
+a978ec2b-fc80-42a8-8369-e10112d7788d,cwa.game,available,309.99,429.99,medium,low,3,namesilo,,,29/09/2026 22:10
 14ab1940-2a49-4c3b-b9ab-aa048ff9eb9d,carve.game,available,349.99,616.99,high,low,5,name.com,,,13/08/2026 12:51
 9dd20aad-6c99-4b0f-98e7-87bec8489f8f,brainwash.game,available,309.99,329.99,high,low,9,namesilo,,,
 992421bd-e27a-4d88-9144-4ca04de5a750,hooked.game,available,309.99,429.99,high,low,6,namesilo,,,22/09/2026 07:30
 131ba267-bb93-447b-99d7-0c021320267e,allowable.game,available,309.99,329.99,high,low,9,namesilo,,,
+c1e864fa-7775-4988-bc5e-00e0712d3f6c,renounce.game,available,309.99,353.32,high,low,8,dynadot,,,29/09/2026 14:11
 e8752429-9d1b-48fa-9740-25cdebd00840,pyloric.game,available,309.99,429.99,high,medium,7,namesilo,,,09/09/2026 06:52
 c1191e40-99b3-4814-9799-5e8c5a9010d0,premier.game,premium,1690,1690,high,low,7,namecheap,,,27/09/2026 04:55
 a9c8699a-a09d-40bf-9d7a-4a9691d28361,olivia.game,available,279.65,341.75,high,low,6,spaceship,,,28/09/2026 07:43
@@ -683,6 +748,7 @@ f8e2f509-5312-4121-9059-bcc8c3e3b3e6,longfellow.game,available,309.47,340.37,med
 e4465151-a083-4778-bbbf-274aaca63f42,gibber.game,available,309.99,429.99,medium,low,6,namesilo,,,23/09/2026 23:36
 2a49c1c0-22b0-4f7b-971b-315beaf8d993,adps.game,available,310.98,547.98,medium,low,4,namecheap,,,17/09/2026 09:53
 83e68f10-479e-4819-93ad-2983550d5094,comparable.game,available,309.99,429.99,high,low,10,namesilo,,,23/09/2026 16:34
+24f86e29-7fa7-4e03-bb8a-98e6b411fca9,sturm.game,available,309.99,429.99,medium,low,5,namesilo,,,30/09/2026 00:15
 2697e8b4-f5a8-4dba-84d7-f16fbf16a8da,tastefully.game,available,309.99,429.99,medium,low,10,namesilo,,,16/09/2026 07:59
 30c5a622-0f48-4b47-a629-2157db2ff806,andes.game,available,310.98,547.98,high,low,5,namecheap,,,19/09/2026 04:04
 854ed07d-9e6f-42cb-8e00-f9ba77efb9c6,vestal.game,available,309.99,429.99,medium,low,6,namesilo,,,13/09/2026 04:47
@@ -690,6 +756,7 @@ e4465151-a083-4778-bbbf-274aaca63f42,gibber.game,available,309.99,429.99,medium,
 70b57d25-5cf2-4e91-a373-f8ade25142d3,aloe.game,available,309.99,429.99,high,low,4,namesilo,,,18/09/2026 12:59
 e5f65678-addf-4c98-bb6b-fe729c1bac80,technically.game,available,310.98,547.98,high,low,11,namecheap,,,19/09/2026 04:54
 51e268ea-26e7-406f-9ec4-bc7219f76606,dungeon.game,premium,1690,1690,high,low,7,namecheap,,,24/09/2026 23:29
+7a789bee-badd-41ae-9877-06c1db49d0b1,waverly.game,available,309.99,429.99,medium,low,7,namesilo,,,29/09/2026 10:04
 ea63f805-422d-4ff5-be40-85c58b4d9d88,canonical.game,available,309.99,329.99,high,low,9,namesilo,,,11/08/2026 17:23
 f219c0ce-bf8b-43b0-a221-b4044ab95aea,unchecked.game,available,309.99,429.99,medium,low,9,namesilo,,,12/09/2026 04:32
 8ddc5113-afa8-4b04-91c4-f52d2d157ea8,barstow.game,available,309.99,429.99,medium,low,7,namesilo,,,22/09/2026 08:54
@@ -704,9 +771,9 @@ ee8401dc-54f4-4b18-9828-58542ff9f58c,synoptic.game,available,309.99,429.99,high,
 69337025-ca07-4432-8795-4be42082570f,podlike.game,available,309.99,429.99,medium,low,7,namesilo,,,08/09/2026 22:31
 366e4891-7aad-4d9d-b331-a55cba16e2a0,orbicular.game,available,309.99,329.99,medium,low,9,namesilo,,,08/08/2026 10:11
 4ba71190-3852-4854-99f9-a4177ee1a8a4,stunning.game,available,309.99,429.99,high,low,8,namesilo,,,22/09/2026 08:34
-0532bbbb-2804-4dc3-a3e7-0820a4e2e7cb,unchanging.game,available,309.99,429.99,medium,low,10,namesilo,,,12/09/2026 05:04
+0532bbbb-2804-4dc3-a3e7-0820a4e2e7cb,unchanging.game,available,309.99,429.99,high,low,10,namesilo,,,12/09/2026 05:04
 2b10b513-b06a-42c8-bbac-d89897a95d50,arbovirus.game,available,309.99,429.99,medium,low,9,namesilo,,,20/09/2026 00:52
-5c05132a-5d15-4337-9023-1237ab291b79,arriver.game,available,309.99,429.99,medium,low,7,namesilo,,,20/09/2026 09:16
+5c05132a-5d15-4337-9023-1237ab291b79,arriver.game,available,309.99,429.99,high,low,7,namesilo,,,20/09/2026 09:16
 28c1a7ea-b553-4e0a-b4e0-81f3f7fd9717,gentle.game,available,309.99,329.99,high,low,6,namesilo,,,06/08/2026 19:29
 3265fa5b-3018-4f44-ba1f-6374e044e809,madame.game,available,309.99,429.99,high,low,6,namesilo,,,28/09/2026 06:18
 e14d5eed-c5f5-48c5-bc2f-acad84867f1b,cultures.game,available,309.99,429.99,medium,low,8,namesilo,,,28/09/2026 23:32
@@ -720,20 +787,22 @@ f2c9b115-23a7-4424-a601-33e5c0253ef8,scarface.game,available,309.47,340.37,mediu
 e576844d-9f3c-422c-8561-60c2472e8814,prosperity.game,available,309.99,429.99,high,low,10,namesilo,,,29/09/2026 01:54
 9b737776-71cc-4323-ba10-cbde0e8f7645,jarring.game,available,309.99,329.99,medium,low,7,namesilo,,,22/08/2026 12:26
 f9e749b7-9f0c-4e55-a2cc-8c939e650c8c,bakery.game,available,300.2,300.2,high,low,6,cloudflare,,,28/09/2026 12:14
-b367c213-cca4-436f-aa2f-d789d9f2a670,sewer.game,available,300.2,300.2,medium,low,5,cloudflare,,,28/09/2026 15:19
+b367c213-cca4-436f-aa2f-d789d9f2a670,sewer.game,available,300.2,300.2,high,low,5,cloudflare,,,28/09/2026 15:19
 1e83bbae-412a-4bc0-adad-bb78753b1469,nissan.game,premium,1419.68,1419.68,high,high,6,porkbun,,,28/09/2026 06:28
 c84fa744-db6e-4e98-9a4f-4f37641a3cc5,greeting.game,available,309.99,429.99,high,low,8,namesilo,,,28/09/2026 14:22
 1a1489ce-1406-4c74-b10b-8ae2c2a36b87,antarctic.game,available,309.99,329.99,high,low,9,namesilo,,,
 26be647b-d276-4670-bdc4-5d16c8b6cf33,latvian.game,available,310.98,498,high,low,7,namecheap,,,22/08/2026 20:47
 6a19a00c-13f9-47e1-a622-ae6ebac93034,elvish.game,available,309.99,329.99,medium,low,6,namesilo,,,16/08/2026 03:43
 a0fbbeed-4885-4d62-a4ad-4a0e66c679bd,tertiary.game,available,309.99,329.99,high,low,8,namesilo,,,
+0da1f8ce-9cb0-4402-8501-93e2f15bee64,heartbreak.game,available,310.98,547.98,high,low,10,namecheap,,,30/09/2026 00:54
 c7de597f-29e7-4225-b2da-4e1ce6574a48,instep.game,available,309.99,429.99,high,low,7,namesilo,,,16/09/2026 14:59
-c0daa72e-5ce3-4c7d-b26c-64c2b85cd681,toned.game,available,309.99,429.99,medium,low,5,namesilo,,,11/09/2026 17:02
-f86ec306-25ff-410c-9607-ed87e08251f8,vacant.game,available,309.99,429.99,medium,low,6,namesilo,,,13/09/2026 00:38
+c0daa72e-5ce3-4c7d-b26c-64c2b85cd681,toned.game,available,309.99,429.99,high,low,5,namesilo,,,11/09/2026 17:02
+f86ec306-25ff-410c-9607-ed87e08251f8,vacant.game,available,309.99,429.99,high,low,6,namesilo,,,13/09/2026 00:38
 3c762486-636f-40a2-8038-840b5e1ffd58,shiftless.game,available,309.99,429.99,high,medium,9,namesilo,,,10/09/2026 06:28
 4f817908-cb3e-4e95-91fe-2ce4ac7919ff,erse.game,available,310.98,498,medium,low,4,namecheap,,,18/08/2026 19:28
 db13d362-d9ca-41b1-b9ac-70eddc2bdc5f,rooibos.game,available,309.99,429.99,medium,low,7,namesilo,,,20/09/2026 14:38
 ea9d6f8b-fc84-49dd-b832-6416235a24fb,jaguars.game,available,310.98,547.98,medium,low,7,namecheap,,,20/09/2026 09:28
+c6d27352-9d1b-47eb-9dc7-19e15dfe7202,considerably.game,available,279.65,341.75,medium,low,12,spaceship,,,29/09/2026 14:23
 8eefece2-2dad-4029-b3a2-0031dc0cc2b6,directory.game,available,309.99,429.99,high,low,9,namesilo,,,24/09/2026 22:24
 38a2a491-ccf1-4c0c-adb7-035c307280b6,jolson.game,available,309.99,429.99,medium,low,6,namesilo,,,18/09/2026 01:21
 da9679f3-7d38-4379-8eae-cbc4c153e0fd,lean.game,available,309.99,329.99,high,low,4,namesilo,,,22/08/2026 22:04
@@ -764,35 +833,41 @@ b8b2bc79-a448-40ed-a367-13b71cfa1b14,atrocity.game,available,349.99,619.99,mediu
 c2095ec2-bb7f-4961-88c4-5eb0e091e3eb,fogey.game,available,309.99,329.99,medium,low,5,namesilo,,,18/08/2026 13:10
 bd02b551-f1fd-4d72-82af-bb7dcf72d9f9,proverb.game,available,309.99,429.99,high,low,7,namesilo,,,17/09/2026 06:07
 dc00d03f-2b27-4b20-abf4-1e9abf2f72ca,stoutness.game,available,309.99,429.99,medium,low,9,namesilo,,,04/09/2026 22:03
-047f6061-12c4-457c-91a0-9c86f80f52c9,lager.game,available,309.99,329.99,high,low,5,namesilo,,,
-8e46be6f-0b53-46da-ba7c-21fafbc4293a,cotton.game,available,309.99,329.99,high,low,6,namesilo,,,
-64693b67-1a9d-4ab9-8071-fc05ce801a7f,decay.game,available,349.99,,high,low,5,name.com,,,
+047f6061-12c4-457c-91a0-9c86f80f52c9,lager.game,available,699.99,699.99,high,low,5,godaddy,,,30/09/2026 01:47
+8e46be6f-0b53-46da-ba7c-21fafbc4293a,cotton.game,available,309.99,429.99,high,low,6,namesilo,,,29/09/2026 11:45
+64693b67-1a9d-4ab9-8071-fc05ce801a7f,decay.game,available,309.99,429.99,high,low,5,namesilo,,,29/09/2026 13:27
 db992e2c-1481-46c2-812a-0c638fb0e461,heist.game,available,310.98,547.98,medium,low,5,namecheap,,,20/09/2026 06:36
 4badaf6e-e805-46f7-a168-2076f6c69d31,facetious.game,available,309.99,329.99,medium,low,9,namesilo,,,08/08/2026 14:39
 3140745a-b6a7-4c3c-9355-1a14e8ba1bdf,acedia.game,available,309.99,429.99,medium,low,6,namesilo,,,16/09/2026 23:26
 3d5aba9b-12de-490b-a421-6acc44fdfc1b,paths.game,available,309.99,429.99,medium,low,5,namesilo,,,18/09/2026 10:52
-f9fbc65e-f4cf-4248-8820-b020ca92a332,unabridged.game,available,309.99,429.99,medium,low,10,namesilo,,,11/09/2026 23:28
+f6863198-bbd0-47b0-a862-b51869c34ff3,amadeus.game,available,309.99,429.99,high,medium,7,namesilo,,,29/09/2026 22:12
+f9fbc65e-f4cf-4248-8820-b020ca92a332,unabridged.game,available,309.99,429.99,high,low,10,namesilo,,,11/09/2026 23:28
 02abbd89-a164-4d5c-bf18-2d5ccbeb1fe9,giacometti.game,available,309.99,429.99,high,low,10,namesilo,,,18/09/2026 02:46
 5e101fe7-23b1-4b02-8260-bb152ac07331,shortages.game,available,310.98,547.98,medium,low,9,namecheap,,,21/09/2026 03:14
-6afba4fe-063b-4256-9e9d-24f376043188,uproar.game,available,349.99,,high,low,6,name.com,,,
+6afba4fe-063b-4256-9e9d-24f376043188,uproar.game,available,309.99,429.99,high,low,6,namesilo,,,29/09/2026 04:35
+76d6458f-d37c-4a9a-ac3c-943175a946a7,dayton.game,available,279.65,341.75,high,low,6,spaceship,,,30/09/2026 01:15
 dded0787-2291-4e54-89a0-df38e340a6a9,trance.game,available,309.99,429.99,high,low,6,namesilo,,,28/09/2026 13:44
 9d72e9e3-f257-4ce8-ac05-b41ce14af806,bulldog.game,available,309.99,429.99,high,low,7,namesilo,,,24/09/2026 11:08
 5be120aa-cf9b-4eea-9b8f-a2357fcb2815,hamas.game,available,279.65,341.75,medium,low,5,spaceship,,,28/09/2026 09:59
-f2f61f90-2852-4149-91ff-c142611da40c,ventolin.game,available,309.99,429.99,medium,low,8,namesilo,,,18/09/2026 03:33
+e50f2a6f-13be-4d3d-9b19-cf51115dd31c,bids.game,available,309.99,353.32,high,low,4,dynadot,,,29/09/2026 15:47
+f2f61f90-2852-4149-91ff-c142611da40c,ventolin.game,available,309.99,429.99,high,low,8,namesilo,,,18/09/2026 03:33
 519e53a0-6d2e-42c5-bd1a-2bdf6700cc99,brittany.game,available,309.99,429.99,high,low,8,namesilo,,,27/09/2026 03:23
-d3172161-3789-4fce-a01b-f2cd3a0a8831,necessarily.game,available,309.99,329.99,medium,low,11,namesilo,,,
+d3172161-3789-4fce-a01b-f2cd3a0a8831,necessarily.game,available,309.99,329.99,high,low,11,namesilo,,,
+9c86d84f-ba86-4b4c-9d65-adc7ee22eda7,defended.game,available,309.99,429.99,low,low,8,namesilo,,,29/09/2026 05:23
+180196f8-9b2c-4694-a679-3c3d9f40cb5e,braddock.game,available,309.99,429.99,high,low,8,namesilo,,,29/09/2026 15:49
 654a4b34-e5e4-4cfd-9627-89eb0a555b75,insipid.game,available,309.99,329.99,medium,low,7,namesilo,,,10/08/2026 12:59
 c9ce6ef3-700c-48bb-aa37-1cb93ecc682f,bout.game,available,279.65,341.75,high,low,4,spaceship,,,28/09/2026 18:28
 3fedebda-5834-4e1d-87e9-882519d3f87b,using.game,available,309.99,329.99,high,low,5,namesilo,,,
 1e6be2ec-2a09-4d52-b970-1ec5a75c17b4,surging.game,available,309.99,329.99,high,low,7,namesilo,,,09/08/2026 21:44
 246c0f10-6f4b-4ab7-9c98-074dee314e72,harvest.game,premium,1729,1729,high,low,7,namesilo,,,24/09/2026 19:41
-eb2dea41-f96d-47c2-a040-f5ca6525ae6d,gustav.game,available,349.99,619.99,medium,low,6,name.com,,,25/09/2026 21:40
+eb2dea41-f96d-47c2-a040-f5ca6525ae6d,gustav.game,available,349.99,619.99,high,low,6,name.com,,,25/09/2026 21:40
 902fd215-e1dd-45a9-ab87-4d4ef8eea5f3,mortal.game,available,349.99,616.99,high,low,6,name.com,,,13/08/2026 19:33
 22ed52f2-f06d-4337-92ee-0be1ec3bd047,aqaba.game,available,309.99,429.99,medium,low,5,namesilo,,,17/09/2026 23:49
 7e0a1686-a213-4ff4-a156-f4052ace42cc,brut.game,available,309.99,329.99,medium,low,4,namesilo,,,11/08/2026 07:07
 c36d69d1-627e-402d-8ca8-d57fce247068,semifinal.game,available,309.99,429.99,high,low,10,namesilo,,,16/09/2026 09:45
 6dd8ac3b-9af1-4875-a1e8-e10431e70952,brent.game,available,279.65,341.75,high,low,5,spaceship,,,28/09/2026 05:19
-53796e6b-501b-4d8d-b317-83ede6e39500,gramme.game,available,309.99,329.99,high,low,6,namesilo,,,
+53796e6b-501b-4d8d-b317-83ede6e39500,gramme.game,available,279.65,341.75,high,low,6,spaceship,,,29/09/2026 20:16
+545c46e7-80b6-4cc6-b17f-debfd5f525b6,germania.game,available,309.99,429.99,medium,low,8,namesilo,,,29/09/2026 21:50
 86c7535a-1f4d-4f87-99e9-5ccd38217cbb,wanna.game,available,309.99,429.99,high,low,5,namesilo,,,26/09/2026 00:48
 35b94e2f-3504-4a09-9f95-4418f447ef10,abcs.game,available,310.98,547.98,high,low,4,namecheap,,,16/09/2026 14:38
 e9530a85-1f6c-4752-98f0-56ec2d5da3dd,navigate.game,available,300.2,300.2,high,low,8,cloudflare,,,28/09/2026 20:45
@@ -812,19 +887,24 @@ e9530a85-1f6c-4752-98f0-56ec2d5da3dd,navigate.game,available,300.2,300.2,high,lo
 f6b2a8c9-1ffd-40df-80bb-76240c07c2cf,aspect.game,premium,1345.7,1345.7,high,low,6,spaceship,,,28/09/2026 22:41
 c6b228c9-c5fe-4cce-a87c-0c4dd4fabb6b,steroidal.game,available,310.98,547.98,medium,low,9,namecheap,,,10/09/2026 20:19
 22c24530-50f3-4004-9527-e1a12c62b7fc,substitute.game,available,349.99,619.99,high,low,10,name.com,,,22/09/2026 02:40
+25e7d562-08ad-4c9c-9034-b16f09695170,ozone.game,available,309.99,429.99,high,low,5,namesilo,,,29/09/2026 07:48
 84d77be5-cfbd-4610-87ee-dbdde088e41a,zambian.game,available,309.99,429.99,high,low,7,namesilo,,,13/09/2026 15:05
+cc0d5cf6-7fbf-4880-aae5-fc6ac1d5ed94,constantin.game,available,300.2,300.2,high,low,10,cloudflare,,,29/09/2026 09:43
 885fec8d-7bd6-47f4-bd93-8e04f921e968,bandeau.game,available,309.99,429.99,medium,low,7,namesilo,,,22/09/2026 01:04
 525d7500-d1f7-46ea-92e1-673bb767ed0a,wise.game,premium,1729,1729,high,high,4,namesilo,,,24/09/2026 23:31
-55bac974-4dd5-46ce-b188-91c2d2e304c3,ironed.game,available,309.99,329.99,medium,low,6,namesilo,,,22/08/2026 10:04
+55bac974-4dd5-46ce-b188-91c2d2e304c3,ironed.game,available,309.99,329.99,high,low,6,namesilo,,,22/08/2026 10:04
 06a132de-0336-424c-bd91-1b04e4f0a1ef,accounted.game,available,309.99,329.99,medium,low,9,namesilo,,,
 b35fd00f-0422-4a9c-a26e-938d07e8bcb0,triune.game,available,310.98,547.98,medium,low,6,namecheap,,,11/09/2026 20:12
 46e14426-3646-4d99-89e9-5b9b4af22d82,mattresses.game,available,309.99,429.99,medium,low,10,namesilo,,,20/09/2026 14:45
 eecbf81e-6dca-4ccb-aa4b-842aae53a477,attestor.game,available,309.99,429.99,medium,low,8,namesilo,,,21/09/2026 01:38
 f7d4d1ce-6278-4c0c-ac2a-12a1df977efa,among.game,available,309.99,329.99,medium,low,5,namesilo,,,
 1f4816f6-5bdf-4807-9542-eec08e0791d4,norwalk.game,available,279.65,341.75,medium,low,7,spaceship,,,28/09/2026 12:08
-baf568b6-4009-49e0-b440-ef9494c5d94e,babbitt.game,available,310.98,547.98,medium,low,7,namecheap,,,21/09/2026 12:17
+baf568b6-4009-49e0-b440-ef9494c5d94e,babbitt.game,available,310.98,547.98,high,low,7,namecheap,,,21/09/2026 12:17
 bce6e71e-2a36-4043-af2c-4d5d3a1fc976,annexa.game,available,349.99,619.99,medium,low,6,name.com,,,17/09/2026 09:06
 2a25bd93-4d4c-4239-9967-afe7580354e6,aggregates.game,available,279.65,341.75,low,low,10,spaceship,,,28/09/2026 08:51
+f66962fe-a856-4c34-8b2b-f89316898552,destroys.game,available,309.99,353.32,low,low,8,dynadot,,,29/09/2026 05:36
+12893e56-be4c-4024-a823-fd9483f634d2,anwar.game,available,309.99,429.99,high,low,5,namesilo,,,29/09/2026 09:45
+03e61f49-d570-4c2b-a99c-5df3ac4cce21,widows.game,available,279.65,341.75,medium,low,6,spaceship,,,30/09/2026 00:25
 8fce43ef-d692-4977-b03d-f4ba203b12e3,backbiter.game,available,309.99,429.99,medium,low,9,namesilo,,,21/09/2026 15:08
 2bc4cbc1-8cc2-413b-bbea-e09d361407f1,teeny.game,available,309.99,329.99,high,low,5,namesilo,,,10/08/2026 08:12
 c76ff17a-7b66-430c-9acd-cd2190cdd8da,disraeli.game,available,309.99,429.99,medium,low,8,namesilo,,,23/09/2026 08:17
@@ -832,12 +912,13 @@ c76ff17a-7b66-430c-9acd-cd2190cdd8da,disraeli.game,available,309.99,429.99,mediu
 bd1c2595-66fb-46e5-8db0-4e016769d727,drizzling.game,available,310.98,498,medium,low,9,namecheap,,,14/08/2026 19:38
 87bf5f48-2765-42dd-ba9d-5410064fd14e,fawcett.game,available,300.2,300.2,medium,low,7,cloudflare,,,28/09/2026 23:26
 f36dc7c3-a9a0-41ba-83e2-267f5b2652dc,unarmed.game,available,309.99,429.99,medium,low,7,namesilo,,,12/09/2026 01:00
+15e80cc9-b497-484e-90c8-08feabd42bde,inglis.game,available,309.47,340.37,high,low,6,porkbun,,,29/09/2026 14:51
 583fa3e1-a33f-4b99-9b1f-a32256813e59,support.game,premium,1690,1690,high,medium,7,namecheap,,,08/09/2026 07:15
 222f358b-e1a8-42b9-ac28-a5191070ca4a,tenor.game,premium,1690,1690,high,low,5,namecheap,,,11/09/2026 11:24
 3fc91ea4-a21d-43b5-8d01-a4a8e2c01a52,animosity.game,available,309.99,429.99,medium,low,9,namesilo,,,19/09/2026 09:20
 8742bcb0-5eb9-40de-8332-e1c4e5ae98a8,nomadic.game,available,309.99,329.99,high,low,7,namesilo,,,25/08/2026 02:19
 5823e427-1553-4ba0-bfa8-9750b38ab572,psychic.game,available,309.99,429.99,high,low,7,namesilo,,,27/09/2026 07:57
-ab572e8c-bdad-41f9-9078-78959165fb42,ardennes.game,available,310.98,547.98,medium,low,8,namecheap,,,20/09/2026 03:09
+ab572e8c-bdad-41f9-9078-78959165fb42,ardennes.game,available,310.98,547.98,high,low,8,namecheap,,,20/09/2026 03:09
 d0f97c00-7033-4f5f-a6bd-6924704160cd,packet.game,available,310.98,547.98,high,low,6,namecheap,,,24/09/2026 11:14
 d8e49aa9-d963-4cf8-8d38-ae5a20916585,ardently.game,available,309.99,429.99,medium,low,8,namesilo,,,13/09/2026 20:41
 6ad93c63-30bd-4bf6-9937-bc35c49151a4,hoped.game,available,309.99,429.99,medium,low,5,namesilo,,,27/09/2026 02:59
@@ -845,14 +926,16 @@ d8e49aa9-d963-4cf8-8d38-ae5a20916585,ardently.game,available,309.99,429.99,mediu
 86f77d96-1bf7-4e78-978d-2e33817bf145,unscripted.game,available,310.98,547.98,medium,low,10,namecheap,,,12/09/2026 19:05
 57194cfa-0b59-4723-8c46-2fa8b03ecaec,unexplored.game,available,309.99,429.99,high,low,10,namesilo,,,12/09/2026 09:42
 6660d9c5-6d28-4c13-ac96-f30702e0a8d9,infant.game,available,279.65,341.75,high,low,6,spaceship,,,29/09/2026 00:05
-1904058c-151c-4ebf-bc1c-84dca6063b1c,wagon.game,available,309.99,429.99,medium,low,5,namesilo,,,29/09/2026 01:37
+1904058c-151c-4ebf-bc1c-84dca6063b1c,wagon.game,available,309.99,429.99,high,low,5,namesilo,,,29/09/2026 01:37
+9d5d9039-1362-42d3-846c-4a4e8e3e4b2d,displacement.game,available,279.65,341.75,high,low,12,spaceship,,,29/09/2026 21:00
 3e28c73d-33de-4249-86e1-44a376567bd5,probative.game,available,309.99,429.99,medium,low,9,namesilo,,,09/09/2026 02:27
 301be4b2-d2d4-4c9d-87bf-6bc42b330d34,punish.game,available,310.98,547.98,high,low,6,namecheap,,,27/09/2026 06:05
 cb7ac5ac-964c-4d56-bf7f-300812e66f5b,disruption.game,available,310.98,547.98,high,low,10,namecheap,,,24/09/2026 16:35
 3a319517-7f7a-469e-a3ce-c5b1d46ac8f6,andradite.game,available,310.98,547.98,medium,low,9,namecheap,,,19/09/2026 04:09
-9b3aa403-0f6c-42cd-8d4d-f67493329187,apolitical.game,available,309.99,329.99,medium,low,10,namesilo,,,06/08/2026 02:02
+9b3aa403-0f6c-42cd-8d4d-f67493329187,apolitical.game,available,309.99,329.99,high,low,10,namesilo,,,06/08/2026 02:02
 c872faaf-8ad6-401f-b833-d5c2a4732362,captious.game,available,310.98,498,medium,low,8,namecheap,,,11/08/2026 18:18
 7b9e325d-137b-49a6-9e57-3efb2800301f,ecstatic.game,available,309.99,329.99,high,low,8,namesilo,,,14/08/2026 23:44
+493483fb-02f6-44da-b382-18fe5377b1b9,spielberg.game,available,279.65,341.75,high,low,9,spaceship,,,29/09/2026 13:59
 d81bac76-bb7b-42b4-98f5-88519654bd6b,stilly.game,available,309.99,429.99,low,low,6,namesilo,,,10/09/2026 20:35
 585ccfa5-1918-4cd9-a7b7-46e73d8e403f,anonymous.game,available,309.99,429.99,high,low,9,namesilo,,,22/09/2026 05:30
 d3e516f5-a8d9-4252-9597-2bf7a88af312,reputedly.game,available,309.99,429.99,medium,low,9,namesilo,,,15/09/2026 23:20
@@ -883,10 +966,10 @@ ce50bd02-7565-4f9c-925a-a2d290730cac,praising.game,available,310.98,498,high,low
 8020d200-613a-4332-84ba-a02817b59057,joewood.game,available,309.99,429.99,medium,low,7,namesilo,,,22/09/2026 04:36
 7168f111-0d6e-4513-86c4-53e261c374f7,significantly.game,available,309.99,329.99,medium,low,13,namesilo,,,
 64b810df-61b7-4cf2-998c-f15dd238249a,sigmoid.game,available,309.99,429.99,high,medium,7,namesilo,,,10/09/2026 07:58
-4340f0e8-b88d-4b95-9e5a-01b6c0723300,tort.game,available,309.99,429.99,medium,low,4,namesilo,,,24/09/2026 15:10
+4340f0e8-b88d-4b95-9e5a-01b6c0723300,tort.game,available,309.99,429.99,high,low,4,namesilo,,,24/09/2026 15:10
 d1b92953-0751-4c00-8321-513313599d2f,grandiose.game,available,310.98,498,high,low,9,namecheap,,,20/08/2026 17:58
 bb72ceb3-ddea-4f86-8c69-ceb85d293b21,respondent.game,available,309.99,429.99,high,low,10,namesilo,,,22/09/2026 05:39
-a3d06591-46a2-4883-8cbe-6fa04295e790,trier.game,available,309.99,429.99,medium,low,5,namesilo,,,21/09/2026 01:21
+a3d06591-46a2-4883-8cbe-6fa04295e790,trier.game,available,309.99,429.99,high,low,5,namesilo,,,21/09/2026 01:21
 f268374d-6365-4799-843b-d28221816c4c,impersonal.game,available,309.99,329.99,medium,low,10,namesilo,,,21/08/2026 22:13
 8102fe45-72d5-4f1a-be50-8c6038dbbdd9,tearing.game,available,309.99,429.99,high,low,7,namesilo,,,11/09/2026 09:42
 e0f3a8bf-b26c-4ce8-b99e-988ad6feefdc,seedless.game,available,309.99,429.99,high,low,8,namesilo,,,10/09/2026 01:45
@@ -894,7 +977,7 @@ d6e6c726-626f-41aa-9ac8-3e594cb4057c,uuh.game,available,309.99,429.99,medium,low
 5a612302-1891-4787-99ba-d338066aae29,portable.game,available,309.99,429.99,high,low,8,namesilo,,,27/09/2026 04:40
 840cc6fe-d643-4861-81b9-231a8366f9dc,reggie.game,available,309.99,429.99,high,low,6,namesilo,,,28/09/2026 07:45
 864409c6-2026-416b-a4f6-0fa8e6082bfa,strengthen.game,available,309.99,329.99,high,low,10,namesilo,,,
-2330d561-36dc-4c65-9a96-d9dd8ca290b1,boneless.game,available,309.99,329.99,medium,low,8,namesilo,,,10/08/2026 18:38
+2330d561-36dc-4c65-9a96-d9dd8ca290b1,boneless.game,available,309.99,329.99,high,low,8,namesilo,,,10/08/2026 18:38
 59ed9db0-25cd-43c9-aec4-cd19ede74354,drums.game,available,309.99,429.99,medium,low,5,namesilo,,,18/09/2026 11:40
 87ea8e7a-76c0-4708-8895-cc613295843c,evitable.game,available,309.99,329.99,medium,low,8,namesilo,,,07/08/2026 22:45
 343ed7bd-09ce-4903-9852-290cac2733e5,desired.game,available,310.98,547.98,high,low,7,namecheap,,,24/09/2026 00:57
@@ -908,94 +991,11 @@ a53633db-6582-4ce1-ad75-090f7a0eadc5,demode.game,available,309.99,329.99,medium,
 1178452e-7c85-40d1-a4ed-a9c7c3ddb4a8,beauteous.game,available,309.99,329.99,medium,low,9,namesilo,,,09/08/2026 05:58
 f3977960-47f3-4400-9542-d22c98f8c447,punishment.game,available,309.99,429.99,high,low,10,namesilo,,,25/09/2026 09:51
 a11ecd2a-7ba9-4e63-8ad2-baaa3aead820,spotty.game,available,309.99,429.99,medium,low,6,namesilo,,,10/09/2026 16:37
-c08bbccb-2fef-4d90-9f06-1baf95c70c3f,pool.game,premium,1625,,high,low,4,name.com,,,
+c08bbccb-2fef-4d90-9f06-1baf95c70c3f,pool.game,premium,1345.7,1345.7,high,medium,4,spaceship,,,29/09/2026 11:12
 3a58f7d1-d608-4bd6-afcb-98ab2a167deb,reeking.game,available,309.99,429.99,high,medium,7,namesilo,,,09/09/2026 12:32
+8cf8fd93-caaa-4bca-8f81-866a28e722fc,deceived.game,available,279.65,341.75,low,low,8,spaceship,,,29/09/2026 23:13
 62a93ec2-4e49-43f4-b332-7de58e04b7c7,gelid.game,available,310.98,498,medium,low,5,namecheap,,,18/08/2026 21:05
 88514be8-00b2-4ac9-a9c4-8bb4d5896aa6,keyless.game,available,309.99,329.99,high,low,7,namesilo,,,22/08/2026 15:44
-55e5a34b-9930-40ad-b613-5efed77d6f18,fingered.game,available,309.99,329.99,medium,low,8,namesilo,,,18/08/2026 04:53
+55e5a34b-9930-40ad-b613-5efed77d6f18,fingered.game,available,309.99,329.99,high,low,8,namesilo,,,18/08/2026 04:53
 ab26ee2f-a4ce-48b6-860a-c803d8fa9471,lenify.game,available,309.99,329.99,medium,low,6,namesilo,,,18/08/2026 22:02
 201818cc-01b8-495a-858c-5306bb691108,forgetting.game,available,309.99,329.99,high,low,10,namesilo,,,
-3d720d13-1275-4f55-8961-be6a998c99c8,pretorian.game,available,309.99,429.99,high,medium,9,namesilo,,,09/09/2026 01:00
-d04adb72-6a08-4735-9808-947b3852b7b1,airwoman.game,available,309.99,429.99,medium,low,8,namesilo,,,17/09/2026 23:25
-ee35d320-4133-4e65-8ddb-33908fae998f,audrey.game,available,309.99,429.99,high,low,6,namesilo,,,25/09/2026 14:38
-77d42f9f-2860-43d6-9c18-74c4d3ce4ad9,busy.game,available,309.99,429.99,high,low,4,namesilo,,,23/09/2026 12:11
-5fb77188-8750-43d3-a3b9-5cef996a2087,buttoned.game,available,309.99,329.99,medium,low,8,namesilo,,,11/08/2026 11:58
-baea0a07-ca06-4c5d-91ff-1bdf1d2156f2,bonsai.game,available,310.98,547.98,high,low,6,namecheap,,,24/09/2026 06:40
-bb2e850a-ede2-4ca0-8bc6-01eceb382948,hematic.game,available,309.99,329.99,medium,low,7,namesilo,,,20/08/2026 21:53
-0d3ff903-b4be-4ff9-8e6a-187f8205a63a,penis.game,available,309.99,329.99,high,low,5,namesilo,,,
-6c60c36a-efa3-416e-9533-4f61cbe5182d,lawsuit.game,available,309.99,429.99,high,low,7,namesilo,,,28/09/2026 05:25
-15cdb606-7bb8-43ad-9a54-4e60b9a92e8b,skewed.game,available,309.99,429.99,medium,low,6,namesilo,,,10/09/2026 09:28
-4eae511b-b621-41de-9eee-1d5e12cdc891,mods.game,available,349.99,,high,low,4,name.com,,,
-ed33edd8-3e8d-4820-93f6-7b00011f23bd,solved.game,available,309.99,429.99,high,low,6,namesilo,,,10/09/2026 13:46
-2b71ca2f-d538-4572-bca2-222c2a3be3a2,meetings.game,available,309.99,429.99,medium,low,8,namesilo,,,27/09/2026 10:46
-583aa375-30c8-4d41-8a4c-eb6fde002e1e,cfr.game,available,309.47,340.37,medium,low,3,porkbun,,,28/09/2026 11:55
-0402db10-5c13-4c27-8817-f5e7f304b887,angora.game,available,309.99,429.99,high,low,6,namesilo,,,19/09/2026 07:06
-36dda231-2793-4b4c-afa5-3562979bbe09,institute.game,available,279.65,341.75,high,low,9,spaceship,,,28/09/2026 06:02
-515cd2a9-cf7f-44cd-9a8e-11804447c3b3,choppy.game,available,309.99,429.99,medium,low,6,namesilo,,,23/09/2026 14:30
-8b1c2629-0bf0-469e-b16f-8550d20b2072,delicate.game,available,309.99,429.99,high,low,8,namesilo,,,24/09/2026 05:30
-d45c2fec-4b70-420e-af91-b4d55dbaa71d,dee.game,available,309.99,429.99,high,low,3,namesilo,,,28/09/2026 03:28
-0ae9c89a-4ea6-48c4-a4db-390a5cecebaf,gallantly.game,available,309.99,429.99,medium,low,9,namesilo,,,14/09/2026 06:45
-d6d57906-7a79-4a57-a6b7-4d8574452b57,worry.game,available,309.99,329.99,high,low,5,namesilo,,,
-8cf01c89-ce3a-470c-a0f0-534da5bec61e,acceptance.game,available,309.99,429.99,high,low,10,namesilo,,,16/09/2026 22:01
-fa9b6eef-9f83-4129-9954-58ece69971ee,triumph.game,premium,1690,1690,high,high,7,namecheap,,,24/09/2026 19:43
-9c8b0570-4980-423a-abd5-6cf2f5f01c1d,oceans.game,available,309.99,429.99,high,low,6,namesilo,,,18/09/2026 06:58
-77638a6e-6f63-4f45-89c9-d873ae19a61e,agar.game,available,309.99,429.99,medium,low,4,namesilo,,,17/09/2026 16:14
-736beca9-e4db-45fd-8774-160d3755e544,ashkenazi.game,available,309.99,429.99,medium,low,9,namesilo,,,20/09/2026 13:54
-71f9857e-1b28-416d-a82b-9ed2d4662f1d,olin.game,premium,1419.68,1419.68,medium,low,4,porkbun,,,29/09/2026 04:10
-b6f9d41b-81c1-409c-8d79-16d51fec5139,awards.game,premium,1345.7,1345.7,medium,low,6,spaceship,,,28/09/2026 08:41
-20785858-7c6c-41e0-96ec-b00f40ace8f5,orthodox.game,available,309.99,329.99,high,low,8,namesilo,,,14/08/2026 22:55
-e10a09ab-387e-4971-a605-3a5c1d5f004a,bailor.game,available,310.98,547.98,medium,low,6,namecheap,,,21/09/2026 19:14
-772e7c59-064c-4e57-90f5-d88cb23be423,corruption.game,available,309.99,329.99,medium,low,10,namesilo,,,
-e35cf2f9-f855-4ad9-bec6-67b534c4a6c3,translunar.game,available,309.99,429.99,medium,low,10,namesilo,,,11/09/2026 02:19
-84f969dc-5f51-4a1b-8eaa-e3518b8f09cd,sufferer.game,available,309.99,429.99,medium,low,8,namesilo,,,24/09/2026 22:36
-78db4581-1820-4a93-b235-9b3f89ba88c7,immense.game,available,309.99,429.99,high,low,7,namesilo,,,25/09/2026 06:12
-cd838c7b-8319-4ed9-8ef4-74a6ee187812,salvatore.game,available,309.99,429.99,medium,low,9,namesilo,,,28/09/2026 16:31
-6bd8cf8d-99a7-4927-8f17-e1388a0a13ae,police.game,available,309.99,329.99,high,low,6,namesilo,,,
-1f787e62-57fc-403a-8188-2aa6d06ce0c2,marijuana.game,premium,1625,,high,low,9,name.com,,,
-a332e8a7-1dda-46ad-8c53-cd2087c663df,removable.game,available,309.99,429.99,medium,low,9,namesilo,,,03/09/2026 23:44
-ed65018b-ede7-4351-aad5-98e4cb1f4799,unceasing.game,available,309.99,329.99,medium,low,9,namesilo,,,
-c94ada19-38c1-41ad-9145-1616bb8951c6,blanquillo.game,available,309.99,429.99,medium,low,10,namesilo,,,24/09/2026 04:04
-e651e377-791f-4f08-a7f2-88eced6a014b,hormones.game,available,279.65,341.75,medium,low,8,spaceship,,,28/09/2026 23:02
-31e08c92-4acf-4222-b919-9976487956c4,anthus.game,available,309.99,429.99,medium,low,6,namesilo,,,19/09/2026 14:02
-cc02c672-900d-45f4-8d0f-b0cc07d8c23b,unending.game,available,309.99,329.99,high,low,8,namesilo,,,
-e1923edd-e852-4884-9681-e18f19f99da4,craggy.game,available,309.99,329.99,medium,low,6,namesilo,,,13/08/2026 04:44
-8aa7eea5-205b-4147-8910-a40597f9550e,gimp.game,available,309.99,329.99,medium,low,4,namesilo,,,23/08/2026 13:28
-ff458bf0-3410-4a2b-8733-e0608464888c,widespread.game,available,309.99,429.99,high,low,10,namesilo,,,24/09/2026 16:57
-7b30ac9b-f30d-43b0-8be9-746e4f4b3f55,amblyopia.game,available,309.99,429.99,medium,low,9,namesilo,,,18/09/2026 17:11
-e0faf013-264a-4a18-b987-cbea487c80ff,acromion.game,available,309.99,429.99,medium,low,8,namesilo,,,17/09/2026 03:49
-b0ffeb98-cf7d-4b10-8eb3-4557155af29f,fixation.game,available,309.99,429.99,high,low,8,namesilo,,,20/09/2026 09:06
-a7a85b6a-4e26-49c0-8806-68eb896f3497,publishers.game,available,309.99,429.99,medium,low,10,namesilo,,,20/09/2026 01:32
-6b788795-0bcc-4433-a0dc-a3334be7bc53,reclaimed.game,available,309.99,429.99,high,low,9,namesilo,,,09/09/2026 11:36
-503999a6-beee-4930-b28e-6a21b5f0dfb8,caused.game,available,310.98,547.98,medium,low,6,namecheap,,,25/09/2026 18:57
-12a41273-ef92-4414-b965-419eb2fc84dd,offender.game,available,300.2,300.2,medium,low,8,cloudflare,,,28/09/2026 20:02
-fbf89f4d-ae4f-449f-943b-714fbc744f6f,maledict.game,available,309.99,329.99,medium,low,8,namesilo,,,
-ba5e99f6-1f06-42bd-abf1-2740c20b2408,bagpiper.game,available,310.98,547.98,medium,low,8,namecheap,,,21/09/2026 18:28
-ff3593bf-d728-4102-bd0c-a1287cfcdad7,zigzag.game,available,309.99,329.99,high,low,6,namesilo,,,13/08/2026 05:04
-ee410b32-f53e-485b-af2e-52b457106ec9,andre.game,available,279.65,341.75,high,low,5,spaceship,,,28/09/2026 04:04
-74b76cdb-75cd-45d1-9618-c898e48d4eed,nose.game,available,309.99,329.99,high,low,4,namesilo,,,
-cfed9e44-ddfd-4ecf-806d-bc3540db01d6,agronomist.game,available,310.98,547.98,medium,low,10,namecheap,,,17/09/2026 19:41
-748eb069-1373-449d-bf52-cd9883037c1f,lackey.game,available,309.99,429.99,medium,low,6,namesilo,,,20/09/2026 15:38
-7c49fb82-f01d-4ada-bae5-0209bcf3dd6a,chorus.game,available,309.99,329.99,high,low,6,namesilo,,,
-c323665d-7acf-4a7f-b34f-1fcb535a2033,paz.game,available,310.98,547.98,high,low,3,namecheap,,,25/09/2026 14:05
-8167192c-8532-4740-a2c8-6d70053fb355,split.game,available,309.99,429.99,high,low,5,namesilo,,,24/09/2026 11:30
-e94c922c-baad-4021-b938-a14d56dab110,divers.game,available,309.99,329.99,high,low,6,namesilo,,,
-0dc883d8-8444-4ac1-8253-433d08986ad5,cooperate.game,available,309.99,353.32,high,low,9,dynadot,,,28/09/2026 17:32
-6b4bce8f-4612-484a-ab31-d00d16aa7bfb,oval.game,available,309.99,429.99,high,low,4,namesilo,,,24/09/2026 13:34
-fea5341b-789f-426f-a34c-b70d0905243b,fresher.game,available,309.99,329.99,high,low,7,namesilo,,,18/08/2026 15:22
-4485f0ed-6ae9-4b39-b982-c243761ac519,specious.game,available,309.99,429.99,high,medium,8,namesilo,,,10/09/2026 15:26
-e818400a-33ef-4df6-a2a8-2c3614f4366c,digits.game,available,349.99,,high,low,6,name.com,,,
-c36aa6ac-c776-4b0a-bd81-1de78e35f0c0,bohrium.game,available,309.99,429.99,medium,low,7,namesilo,,,20/09/2026 22:07
-129779f4-31c1-44bf-b455-0ef141f075a7,spy.game,premium,1729,1729,high,low,3,namesilo,,,25/09/2026 10:42
-9e452d55-9e56-4745-9eac-1537c45caec6,countess.game,available,309.99,429.99,medium,low,8,namesilo,,,28/09/2026 13:48
-955fec73-5663-4826-baee-04fa1f2667ea,harare.game,available,310.98,547.98,medium,low,6,namecheap,,,24/09/2026 12:36
-f6588ca3-6a63-4e0f-85e0-4edfaeb5416a,bergenia.game,available,309.99,429.99,medium,low,8,namesilo,,,23/09/2026 09:20
-14db9dba-1d91-4e0e-9eb4-f777553494b0,miller.game,premium,1690,1690,high,low,6,namecheap,,,18/09/2026 15:01
-1e2e1cd4-004d-4d26-83ce-206b18c81ab6,axletree.game,available,309.99,429.99,medium,low,8,namesilo,,,21/09/2026 10:27
-4a1d1f25-d73a-48ce-b782-c8053ada57ea,hearst.game,available,279.65,341.75,high,medium,6,spaceship,,,28/09/2026 05:59
-9f4c20c4-9d1b-4a25-98e9-70930acfe720,leavitt.game,available,300.2,300.2,medium,low,7,cloudflare,,,29/09/2026 04:25
-97d4e471-2974-4b46-9b10-6c9a60faf31f,aphonic.game,available,309.99,329.99,medium,low,7,namesilo,,,05/08/2026 23:17
-d3124023-be33-4e84-a23a-2f2f5ab704c5,asio.game,available,309.99,429.99,medium,low,4,namesilo,,,20/09/2026 14:18
-5363d155-4436-4267-87b9-d4ea7be45844,albert.game,available,309.99,429.99,high,low,6,namesilo,,,18/09/2026 02:35
-8dc06b2a-361d-4cc5-83b7-52955c3dd31a,policy.game,available,309.99,329.99,high,low,6,namesilo,,,
-a2af0fa7-99f6-4499-a9cc-e95f7a8fa6d1,clockwise.game,available,309.99,329.99,high,low,9,namesilo,,,12/08/2026 11:33
-09c4cc16-78dd-48d0-83fd-74107bc63f49,tubby.game,available,309.99,429.99,medium,low,5,namesilo,,,08/09/2026 22:29
